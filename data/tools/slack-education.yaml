@@ -1,0 +1,36 @@
+name: Slack for Education
+website: https://slack.com
+slug: slack-education
+
+category:
+  l1: communication-meetings
+  l2: team-chat
+
+discount:
+  summary: 85% off Slack Pro or Business+ for qualified educational institutions and related groups (applied at checkout after approval).
+  details: >
+    Workspace-level discount for accredited schools, nonprofit educational institutions,
+    faculty groups, alumni associations, Greek life, housing groups, and school districts.
+    Slack AI features are a separate add-on per current Slack pricing. Minimum age 16 to use
+    Slack per Terms of Service. Does not apply to affiliated hospitals or government education
+    offices.
+
+how_to_apply: |
+  1. Read https://slack.com/help/articles/206646877-Apply-for-the-Slack-for-Education-discount
+  2. Create a workspace or use an existing one (Workspace Owner applies).
+  3. Submit https://my.slack.com/education with institution documents (accreditation letter, dean/admin confirmation).
+  4. Complete U.S. tax exemption steps on billing settings if applicable.
+  5. Upgrade to Pro or Business+ after approval; discount applies at checkout.
+
+regional_restrictions:
+  notes: >
+    Global applicants welcome for qualifying institutions per help article; U.S. sales-tax exemption
+    checklist is United States only. One application per workspace.
+
+source_url: https://slack.com/help/articles/206646877-Apply-for-the-Slack-for-Education-discount
+verified_at: 2026-05-17
+status: active
+
+eligibility: Qualified educational institutions and affiliated groups listed in Slack help; not individual consumer student self-serve accounts.
+proof_required: Accreditation or nonprofit status documents; workspace owner application review.
+offer_type: percent_off

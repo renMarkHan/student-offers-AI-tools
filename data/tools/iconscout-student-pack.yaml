@@ -1,0 +1,32 @@
+name: IconScout (GitHub Student Developer Pack)
+website: https://iconscout.com
+slug: iconscout-student-pack
+
+category:
+  l1: image-design
+  l2: ui-graphic-design
+
+discount:
+  summary: Free access to 60 premium icons per month from selected contributors for 1 year (GitHub Student Developer Pack).
+  details: >
+    Marketplace for icons, illustrations, 3D assets, and Lottie animations. Pack offer is
+    documented on the official GitHub Education partner list; not a direct IconScout
+    self-serve student pricing page.
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/education
+  2. Open https://education.github.com/pack and locate the IconScout offer.
+  3. Redeem per pack instructions; contact support@iconscout.com for help if needed.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education student verification.
+offer_type: free_tier
+related_tools:
+  - github-copilot-student

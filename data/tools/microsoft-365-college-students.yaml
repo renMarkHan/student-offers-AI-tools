@@ -1,0 +1,38 @@
+name: Microsoft 365 (College Students)
+website: https://www.microsoft.com/microsoft-365
+slug: microsoft-365-college-students
+
+category:
+  l1: productivity-notes
+  l2: calendar-email
+
+discount:
+  summary: 12 months of Microsoft 365 Premium free for verified new higher-ed students (payment method required; then standard monthly price unless canceled).
+  details: >
+    U.S. college student pricing page: after verifying student status, eligible new Microsoft 365
+    Premium subscribers receive 12 free months including Copilot in Word, Excel, PowerPoint,
+    OneNote, and Outlook, up to 6 TB cloud storage (1 TB per person), and Defender. Requires
+    personal Microsoft account (not EDU as primary account), payment instrument at signup, and
+    higher-education verification (school email, ISIC, student ID, schedule, etc.). Offer not
+    available in all markets; existing subscribers may upgrade per FAQ.
+
+how_to_apply: |
+  1. Read https://www.microsoft.com/en-us/microsoft-365/college-student-pricing
+  2. Sign in with a personal Microsoft account (create one if needed—not your school login as MSA).
+  3. Add payment method and complete student verification (EDU email or other accepted proof).
+  4. Complete order from the verification email link if prompted.
+  5. Install Office apps and cancel recurring billing before month 13 if you do not want paid renewal.
+
+regional_restrictions:
+  countries: [US]
+  notes: >
+    Page is U.S. English; FAQ states offer not available in all markets. Students outside the U.S.
+    should check localized microsoft.com college pricing. AI features have minimum age limits and usage caps per Microsoft terms.
+
+source_url: https://www.microsoft.com/en-us/microsoft-365/college-student-pricing
+verified_at: 2026-05-17
+status: active
+
+eligibility: New Microsoft 365 Premium subscribers who verify higher-education student status within the last year; not available to all existing subscribers without upgrade path per FAQ.
+proof_required: School email, enrollment details, ISIC, or documentation (ID, schedule, acceptance letter) per verification flow.
+offer_type: extended_trial

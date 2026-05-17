@@ -1,0 +1,34 @@
+name: Grammarly for Education
+website: https://www.grammarly.com
+slug: grammarly-education
+
+category:
+  l1: translation-language
+  l2: localization
+
+discount:
+  summary: Institution-wide Grammarly for Education licenses for students, faculty, and staff (not individual student checkout).
+  details: >
+    Grammarly sells campus or district plans that include AI writing assistance, Authorship
+    integrity views, and optional generative AI features controlled by administrators. Students
+    typically receive access when their school purchases—there is no universal self-serve student
+    discount page with public pricing on grammarly.com/edu.
+
+how_to_apply: |
+  1. Ask your institution's IT or academic technology office whether Grammarly for Education is licensed.
+  2. If not available, point administrators to https://www.grammarly.com/edu or https://www.grammarly.com/edu/plans-and-pricing
+  3. Administrators contact Grammarly sales to procure licenses for the campus.
+
+regional_restrictions:
+  notes: Commercial/institutional contracts; terms vary by institution and region.
+
+source_url: https://www.grammarly.com/edu
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students and educators at institutions that purchase Grammarly for Education.
+proof_required: Access via institutional license provisioning (not individual .edu checkout).
+offer_type: other
+tags:
+  - writing-text
+notes: Campus license model—individual students cannot buy this SKU directly on the public site.

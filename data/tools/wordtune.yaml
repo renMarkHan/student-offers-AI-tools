@@ -1,0 +1,35 @@
+name: Wordtune
+website: https://www.wordtune.com
+slug: wordtune
+
+category:
+  l1: translation-language
+  l2: machine-translation
+
+discount:
+  summary: 30% off Wordtune annual or monthly plans for students, educators, or nonprofit/NGO staff.
+  details: >
+    Academic discount is valid for 12 months per the application page. Applies to free users and
+    future invoices only; no refunds for past charges; discounts cannot be stacked. Processing
+    may take up to 2 working days after you submit the form.
+
+how_to_apply: |
+  1. Go to https://www.wordtune.com/ua/wordtune-discount-page
+  2. Complete the form with name, university, and email.
+  3. Upload a current student ID or proof of enrollment from your university.
+  4. After approval, upgrade at https://www.wordtune.com/plans with the activated discount.
+
+regional_restrictions:
+  notes: >
+    Eligible with a valid and active .edu email address, or enrollment at an academic institution,
+    or employment at a nonprofit/NGO per FAQ.
+
+source_url: https://www.wordtune.com/ua/wordtune-discount-page
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students or educators with valid .edu email, or nonprofit/NGO workers per official FAQ.
+proof_required: Student ID or proof of enrollment upload; .edu email path per FAQ.
+offer_type: percent_off
+tags:
+  - writing-text

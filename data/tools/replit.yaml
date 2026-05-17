@@ -1,0 +1,31 @@
+name: Replit
+website: https://replit.com
+slug: replit
+
+category:
+  l1: coding-development
+  l2: dev-environments
+
+discount:
+  summary: 50% off Replit Core with a verified .edu email ($10/month shown on student page vs standard Core pricing).
+  details: >
+    Core plan for students includes Replit Agent with full AI credits, unlimited private apps,
+    production deploys, and faster workspaces per the official students page. Free Starter tier
+    remains available without .edu. Educators can apply separately for free classroom access
+    at replit.com/edu (not covered in this individual student offer).
+
+how_to_apply: |
+  1. Sign up at https://replit.com/signup with your .edu email.
+  2. Verify your email address.
+  3. Upgrade to Core; the 50% education discount should apply automatically at checkout per Replit.
+
+regional_restrictions:
+  notes: Requires .edu email for advertised Core discount; confirm checkout shows student pricing before paying.
+
+source_url: https://replit.com/partners/education/students
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students with a valid .edu email address.
+proof_required: .edu email verification at signup/checkout.
+offer_type: percent_off

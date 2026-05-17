@@ -1,0 +1,42 @@
+name: Google Cloud Education Grants
+website: https://cloud.google.com
+slug: google-cloud-education-grants
+
+category:
+  l1: cloud-api-credits
+  l2: model-apis
+
+discount:
+  summary: Course-based Google Cloud credits for eligible institutions—faculty apply and distribute coupon codes to students (not individual self-serve signup).
+  details: >
+    Education grants provide billing credits for teaching and learning on Google Cloud. Faculty at
+    eligible institutions apply and receive coupon codes plus a redemption URL for students.
+    Students verify enrollment (typically school email) and redeem credits on a course billing
+    account. Credits are valid one year after redemption per Cloud Billing documentation; free tier
+    usage does not consume education credits. Research grants (separate program) may offer higher
+    amounts—see cloud.google.com/edu.
+
+how_to_apply: |
+  Faculty:
+  1. Read https://cloud.google.com/billing/docs/how-to/edu-grants
+  2. Apply through Google Cloud education programs for your institution.
+  3. Distribute coupon codes and redemption URL to enrolled students.
+
+  Students:
+  1. Obtain a coupon code from your instructor.
+  2. Redeem in Google Cloud console per instructions in the edu-grants doc.
+  3. Use credits only for approved educational coursework.
+
+regional_restrictions:
+  notes: >
+    Eligibility tied to participating institutions and course approval—not a global consumer student
+    discount. Credit amounts per faculty/student are set in grant terms (see cloud.google.com/edu for program overview).
+
+source_url: https://cloud.google.com/billing/docs/how-to/edu-grants
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students in courses where faculty received education grants; faculty at eligible institutions for grant application.
+proof_required: Institutional grant approval; student enrollment verification via school email for coupon redemption.
+offer_type: credits
+notes: Institutional (🏫) program—not the same as individual Google Colab Pro for Education (see google-colab-education.yaml).

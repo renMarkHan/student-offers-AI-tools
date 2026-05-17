@@ -1,0 +1,35 @@
+name: Runway
+website: https://runwayml.com
+slug: runway
+
+category:
+  l1: video
+  l2: generation
+
+discount:
+  summary: 25% off any paid Runway plan for verified students and educators (SheerID).
+  details: >
+    Separate classroom licensing for educators rolling out Runway across a class or
+    university may offer up to 25% off for classes of 3 or more licenses (request form
+    on the same page). Student Ambassador Program (application-based) may include
+    complimentary credits and Pro access—see runwayml.com/news for program terms.
+
+how_to_apply: |
+  1. Go to the Runway for Education page (source_url).
+  2. Choose "I'm a Student" or "I'm an Educator".
+  3. Complete SheerID verification of student or educator status.
+  4. Receive 25% off any paid plan after verification.
+
+regional_restrictions:
+  notes: Regional eligibility for SheerID verification not specified on the education landing page; confirm at checkout.
+
+source_url: https://runwayml.com/educators
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students and educators who pass SheerID verification.
+proof_required: SheerID (third-party student/educator verification).
+offer_type: percent_off
+tags:
+  - editing
+  - avatars-presenting

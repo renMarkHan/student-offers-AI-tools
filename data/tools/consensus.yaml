@@ -1,0 +1,31 @@
+name: Consensus
+website: https://consensus.app
+slug: consensus
+
+category:
+  l1: research-academia
+  l2: literature-search
+
+discount:
+  summary: 40% off Consensus Premium for verified students and academic faculty; 25% off for clinicians.
+  details: >
+    Students verify with a .edu or .ac email on the pricing page. Faculty receive the same 40%
+    discount. Clinicians use NPI verification for 25% off. Students without .edu/.ac may email
+    student@consensus.app with account email, proof of enrollment, and graduation year.
+
+how_to_apply: |
+  1. Visit https://consensus.app/pricing
+  2. Click Claim and select your profession (Student or Faculty).
+  3. Verify with your .edu or .ac email, or email student@consensus.app if you lack one.
+  4. Complete checkout with the discounted plan.
+
+regional_restrictions:
+  notes: Not specified on help article; contact support@consensus.app for edge cases.
+
+source_url: https://help.consensus.app/en/articles/10064359-how-to-get-a-student-or-clinician-discount
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students and academic faculty; separate clinician path with NPI.
+proof_required: .edu / .ac email verification, or enrollment proof emailed to student@consensus.app.
+offer_type: percent_off

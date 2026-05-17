@@ -1,0 +1,45 @@
+name: Figma for Education
+website: https://www.figma.com
+slug: figma-education
+
+category:
+  l1: image-design
+  l2: ui-graphic-design
+
+discount:
+  summary: Free Figma Education plan—Enterprise for K–12, Professional for higher ed and bootcamps; higher ed includes monthly AI credits.
+  details: >
+    Verified education users get free access to one plan tier: high school students and
+    educators receive Enterprise; higher education students, educators, and bootcamp
+    participants receive Professional (see figma.com/pricing for feature comparison).
+    Higher education and bootcamp users can use Figma AI tools with 3,000 AI credits per
+    month per person (credits reset monthly, do not roll over). K–12 Education users do not
+    get AI tools in the editor. Figma Make and Figma Sites are available for higher ed and
+    bootcamp users only, not K–12. Access length: one year for K–12 and higher ed (reapply if
+    still eligible); six months for verified bootcamp students; two years for bootcamp teachers.
+
+how_to_apply: |
+  1. Create a Figma account with your school-issued email (or update your existing account email before applying).
+  2. Sign up flow: select School → Student or Educator → institution type (High school, Higher Education, or Bootcamp).
+  3. K–12: apply at https://www.figma.com/education/apply (school email required). For classroom use with students, use https://www.figma.com/education/k-12
+  4. Higher education: apply at https://www.figma.com/education/apply → Higher Ed → complete SheerID verification.
+  5. Bootcamp students: verified by your program admin (no self-serve application). Bootcamp admins apply via Figma’s trusted partner form linked from the help article.
+
+regional_restrictions:
+  notes: >
+    Figma for Education is only available in select regions and may not be accessible everywhere.
+    Must be old enough to consent to use the services without a parent/guardian (varies by jurisdiction).
+    Non-teaching school staff do not qualify.
+
+source_url: https://help.figma.com/hc/en-us/articles/360041061214-Figma-for-Education
+verified_at: 2026-05-17
+status: active
+
+eligibility: Current students or educators in qualifying classroom programs (in-person or structured online/bootcamp per Figma rules); school email required for most paths.
+proof_required: School-issued email; SheerID verification for higher education; bootcamp verification by approved program admin.
+offer_type: free_tier
+tags:
+  - slides
+notes: >
+  AI credit details: https://help.figma.com/hc/en-us/articles/37611757713431
+  Education verification updated August 2025 per Figma help.

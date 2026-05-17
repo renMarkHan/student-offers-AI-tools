@@ -1,0 +1,31 @@
+name: HeyGen
+website: https://www.heygen.com
+slug: heygen
+
+category:
+  l1: video
+  l2: avatars-presenting
+
+discount:
+  summary: No official student or education discount page found on heygen.com at verification time.
+  details: >
+    Community forum threads discuss student discounts, but no dedicated education or
+    student pricing URL was located on the official site. Standard plans are listed on
+    the public pricing page only.
+
+how_to_apply: |
+  1. Review https://www.heygen.com/pricing for standard plans.
+  2. Contact HeyGen support through official channels to ask about education pricing.
+  3. Do not add discount figures until HeyGen publishes an official student/education offer.
+
+regional_restrictions:
+  notes: Unknown.
+
+source_url: https://www.heygen.com/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown — needs official documentation.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Included from research candidates; only forum references found, not vendor edu terms.

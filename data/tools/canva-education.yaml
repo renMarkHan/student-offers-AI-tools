@@ -1,0 +1,43 @@
+name: Canva for Education
+website: https://www.canva.com
+slug: canva-education
+
+category:
+  l1: image-design
+  l2: ui-graphic-design
+
+discount:
+  summary: Free Canva Education (premium features) for eligible K–12 teachers and students invited by a teacher.
+  details: >
+    Includes access to premium Canva features for classroom use. Magic Studio / AI
+    allowances depend on plan and product updates. Affinity professional creative tools
+    may be available per Canva help articles (K–12 opt-out via CSM; higher ed via CSM).
+    College and university students are not eligible for Canva Education per official help;
+    they must use other Canva plans.
+
+how_to_apply: |
+  1. Teachers open https://www.canva.com/edu-signup/ and sign up with a verified educational email domain, or school Clever/Microsoft/Google account.
+  2. Complete teacher verification (instant for recognized domains, or upload teaching credentials).
+  3. Students receive access only when invited by their teacher from class settings (K–12).
+  4. Review eligibility guidelines on canva.com/education before applying.
+
+regional_restrictions:
+  notes: Available worldwide for eligible K–12 roles and institutions per Canva help; not available to higher-ed students on this program.
+
+source_url: https://www.canva.com/help/about-canva-for-education/
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  Certified K–12 teachers, librarians, learning support staff, curriculum specialists, and
+  vocational teachers at accredited schools; K–12 students invited by an eligible teacher.
+  Higher-ed students and many other roles are explicitly excluded.
+proof_required: Educational email domain, school SSO, or uploaded teaching credentials.
+offer_type: free_tier
+tags:
+  - ui-graphic-design
+  - slides
+notes: >
+  AI slides/quiz tools for K–12 teachers: https://www.canva.com/ai-for-teachers/
+  (same Canva Education program; not a separate discount SKU).
+  Reality-check 2026-05-17: help page reachable; confirms free premium for eligible K–12 (Batch 1 retry PASS).

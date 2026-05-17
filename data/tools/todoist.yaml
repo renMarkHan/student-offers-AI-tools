@@ -1,0 +1,31 @@
+name: Todoist
+website: https://todoist.com
+slug: todoist
+
+category:
+  l1: productivity-notes
+  l2: task-automation
+
+discount:
+  summary: No official student or education discount documented on the public pricing page at verification time.
+  details: >
+    todoist.com/pricing lists free Beginner, paid Pro, and Business tiers with Todoist Assist AI
+    sessions on paid plans. No student, .edu, or education verification flow or published discount
+    percentage was found on the official site.
+
+how_to_apply: |
+  1. Review https://todoist.com/pricing for standard plans.
+  2. Use the free Beginner tier or paid Pro/Business as listed.
+  3. Do not list student discount amounts unless Todoist publishes an official education offer page.
+
+regional_restrictions:
+  notes: Pricing varies by currency and tax region on checkout.
+
+source_url: https://todoist.com/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Research noted historical student promos—none on current official pricing page.

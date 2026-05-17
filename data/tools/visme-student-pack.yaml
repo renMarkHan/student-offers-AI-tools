@@ -1,0 +1,33 @@
+name: Visme (GitHub Student Developer Pack)
+website: https://www.visme.co
+slug: visme-student-pack
+
+category:
+  l1: presentation-documents
+  l2: slides
+
+discount:
+  summary: 3 months free access to Visme Starter plan via GitHub Student Developer Pack.
+  details: >
+    Official GitHub Education pack listing: presentations, visual documents, and related
+    content tools on Visme Starter. Pack page does not specify which AI features are included
+    on Starter—confirm on Visme plan documentation before relying on AI tools.
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/education
+  2. Open https://education.github.com/pack and locate the Visme offer.
+  3. Claim and redeem per pack instructions.
+  4. Contact https://support.visme.co/ if redemption fails.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education student verification.
+offer_type: extended_trial
+related_tools:
+  - github-copilot-student

@@ -1,0 +1,39 @@
+name: CoCounsel (Law School)
+website: https://legal.thomsonreuters.com
+slug: cocounsel-law-school
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: CoCounsel generative AI for class prep and CoCounsel Drafting (Word add-in) provided through law school Westlaw/Thomson Reuters subscriptions—not a public student checkout SKU.
+  details: >
+    Thomson Reuters Law Schools documents CoCounsel Chat for briefing, note analysis, and outlining
+    alongside Westlaw, and CoCounsel Drafting as a Microsoft Word add-in with installation and
+    training resources on lawschool.thomsonreuters.com. Access is tied to your law school’s
+    Thomson Reuters plan and OnePass—there is no verified standalone consumer student discount page.
+    The former Casetext demo URL (casetext.com/demo-cocounsel-trial/) now redirects to a
+    discontinuation notice pointing users to Westlaw and CoCounsel on Thomson Reuters.
+
+how_to_apply: |
+  1. Register for law school access via your institution’s Westlaw/Thomson Reuters registration key (see westlaw-law-school.yaml).
+  2. Use CoCounsel within Westlaw per the Law School Survival Guide (case briefing, note upload, outlining).
+  3. For CoCounsel Drafting, follow installation instructions at https://lawschool.thomsonreuters.com/cocounsel-drafting-access/
+  4. Use On-Demand Learning and CoCounsel help articles linked from Law School support pages for training.
+
+regional_restrictions:
+  notes: Product availability and features depend on your law school’s Thomson Reuters subscription.
+
+source_url: https://lawschool.thomsonreuters.com/survival-guide/ai-class-prep/
+verified_at: 2026-05-17
+status: active
+
+eligibility: Law students with CoCounsel enabled on their school’s Thomson Reuters law school subscription.
+proof_required: Law school registration key and OnePass; same institutional provisioning as Westlaw.
+offer_type: other
+related_tools:
+  - westlaw-law-school
+notes: >
+  Former candidate URL https://casetext.com/demo-cocounsel-trial/ is no longer available (service discontinued message).
+  Do not list trial length or discount % unless Thomson Reuters publishes current student self-serve terms.

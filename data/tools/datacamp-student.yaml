@@ -1,0 +1,43 @@
+name: DataCamp (Student Premium)
+website: https://www.datacamp.com
+slug: datacamp-student
+
+category:
+  l1: data-analytics
+  l2: notebooks-ml
+
+discount:
+  summary: Three months free DataCamp access when you subscribe via GitHub Student Developer Pack (verified on official pack listing).
+  details: >
+    GitHub Education pack listing (May 2026): “DataCamp has partnered with GitHub Education
+    to offer three months of free access when you sign up for a DataCamp subscription with
+    your GitHub student account.” DataCamp also markets a separate Premium Student plan at
+    https://www.datacamp.com/pricing/student with published discounts (e.g. percent off annual
+    or monthly)—that page could not be fetched for verification (Cloudflare) at maintainer
+    check; do not treat pack terms and direct student checkout as the same offer. Professors
+    can apply for free DataCamp Classrooms at datacamp.com/universities.
+
+how_to_apply: |
+  1. Apply for GitHub Student Developer Pack at https://github.com/settings/education/benefits
+  2. Open https://education.github.com/pack and locate DataCamp.
+  3. Redeem the partner offer with your verified GitHub student account.
+  4. For direct Premium Student pricing (if available), try https://www.datacamp.com/pricing/student after verifying current terms on the live page.
+
+regional_restrictions:
+  notes: GitHub Pack requires GitHub Education student verification; DataCamp direct student eligibility per DataCamp if using pricing/student.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members for pack offer; separate rules may apply for datacamp.com/pricing/student.
+proof_required: GitHub Education verification; DataCamp subscription via pack redemption flow.
+offer_type: extended_trial
+tags:
+  - notebooks-ml
+  - course-study-aids
+related_tools:
+  - github-student-developer-pack
+notes: >
+  Maintainer re-check 2026-05-17: datacamp.com/pricing/student not reachable for automated
+  verification—removed unverified 50%/30% figures from summary until re-confirmed on official page.

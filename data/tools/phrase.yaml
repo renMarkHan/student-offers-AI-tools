@@ -1,0 +1,31 @@
+name: Phrase (localization)
+website: https://phrase.com
+slug: phrase
+
+category:
+  l1: translation-language
+  l2: localization
+
+discount:
+  summary: No public individual student discount; enterprise localization platform with sales-led academic arrangements.
+  details: >
+    Phrase markets TMS and AI localization for organizations. No student, .edu, or university
+    self-serve discount with published terms was found on phrase.com at verification time.
+    Academic or campus licensing, if available, is expected via sales like other enterprise TMS vendors.
+
+how_to_apply: |
+  1. Review https://phrase.com/ for team and enterprise plans.
+  2. Contact Phrase sales for institutional or academic licensing inquiries.
+  3. Do not list education discount percentages unless Phrase publishes an official student offer page.
+
+regional_restrictions:
+  notes: Enterprise contracts vary by organization and region.
+
+source_url: https://phrase.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Listed with Smartcat in research candidates; academic via sales only.

@@ -1,0 +1,43 @@
+name: JetBrains Student Pack
+website: https://www.jetbrains.com
+slug: jetbrains-student-pack
+
+category:
+  l1: platforms-bundles
+  l2: suites
+
+discount:
+  summary: Free JetBrains IDEs and Student Pack for eligible students; includes a limited AI trial in the IDE.
+  details: >
+    Free access to professional JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, etc.) for
+    the duration of studies, renewed annually. Student Pack also includes JetBrains Academy
+    courses. AI features: Student Pack includes a limited trial of JetBrains AI in the IDE;
+    ongoing AI usage uses separate AI Free (3 AI Credits per 30 days on supported IDE versions)
+    or paid AI Pro/Ultimate tiers per JetBrains AI licensing docs. 40% off JetBrains products
+    for two years after Student Pack expires.
+
+how_to_apply: |
+  1. Visit https://www.jetbrains.com/community/education/#students
+  2. Click "Request now" and verify with university email, ISIC/ITIC card, or GitHub Student Developer Pack.
+  3. Alternatively apply at https://www.jetbrains.com/shop/eform/students
+  4. Renew annually via the link in your JetBrains Account before expiration.
+
+regional_restrictions:
+  notes: >
+    Full-time student in a program lasting one year or more. JetBrains AI service restricted
+    to allowed territories per JetBrains legal docs (Mainland China limitations for some AI tiers).
+
+source_url: https://www.jetbrains.com/academy/student-pack/
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  University email, ISIC/ITIC, or GitHub Student Developer Pack; accredited program ≥1 year;
+  non-commercial educational use only.
+proof_required: University email, ISIC/ITIC, GitHub Education verification, or official enrollment documents.
+offer_type: free_tier
+tags:
+  - coding-development
+notes: >
+  Community education page https://www.jetbrains.com/community/education/#students mirrors eligibility;
+  AI trial limits described on Student Pack FAQ—do not list fixed AI credit counts unless published on source.

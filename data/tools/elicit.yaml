@@ -1,0 +1,34 @@
+name: Elicit
+website: https://elicit.com
+slug: elicit
+
+category:
+  l1: research-academia
+  l2: literature-search
+
+discount:
+  summary: No individual student discount published; institutional Enterprise plans and annual billing savings only.
+  details: >
+    Public pricing lists Free, Pro, Scale, and custom Enterprise for companies and schools.
+    Support documentation (per Elicit help center) describes annual plan discounts for
+    individual subscribers and institutional subscriptions purchased by universities—not a
+    documented self-serve student SKU. Contact sales@elicit.com or your librarian for campus access.
+
+how_to_apply: |
+  1. For individual use, review https://elicit.com/pricing (Free tier or paid Pro/Scale).
+  2. To request campus access, ask your library or department to contact Elicit sales for Enterprise.
+  3. Do not list a student discount percentage unless Elicit publishes an official student page.
+
+regional_restrictions:
+  notes: Enterprise and institutional terms negotiated per organization.
+
+source_url: https://elicit.com/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: >
+  Students may use Free tier individually; discounted or sponsored access requires institutional
+  subscription (not verified as a standard student discount program).
+proof_required: Institutional procurement for campus-wide access; none for individual student discount.
+offer_type: other
+notes: Maintainer flag — needs-verification. Could not fetch support article 606593; pricing page shows no student plan.

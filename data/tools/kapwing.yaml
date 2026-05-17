@@ -1,0 +1,32 @@
+name: Kapwing
+website: https://www.kapwing.com
+slug: kapwing
+
+category:
+  l1: video
+  l2: editing
+
+discount:
+  summary: Kapwing for Education program exists but new applications are paused (waitlist only).
+  details: >
+    Official FAQ states Kapwing is putting a pause on accepting new applicants for
+    Kapwing for Education while focusing on product improvements. Free tier remains
+    available for general use. Prior education program benefits (no ads, classroom
+    focus) not confirmed for new signups until waitlist reopens.
+
+how_to_apply: |
+  1. Read the Kapwing for Education page (source_url) for current program status.
+  2. If interested when applications reopen, join the waitlist via https://www.kapwing.com/edu/signup
+  3. Until then, use the standard free Kapwing tier at https://www.kapwing.com/signin
+
+regional_restrictions:
+  notes: Not specified on education page; general Kapwing terms apply.
+
+source_url: https://www.kapwing.com/edu
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Intended for students and educators when program is open; currently waitlist only.
+proof_required: Unknown while program is paused.
+offer_type: other
+notes: Maintainer flag — needs-verification. Official page confirms program pause; no active student discount terms to quote.

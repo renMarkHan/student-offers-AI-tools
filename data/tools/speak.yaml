@@ -1,0 +1,31 @@
+name: Speak
+website: https://www.speak.com
+slug: speak
+
+category:
+  l1: learning-education
+  l2: language-learning
+
+discount:
+  summary: No official student or education pricing program documented on the public website at verification time.
+  details: >
+    speak.com describes Speak Tutor and subscription plans with a 7-day free trial for new users.
+    FAQ does not list student, teacher, or .edu discounts. Education pricing was not found on the
+    marketing site or help center pages checked.
+
+how_to_apply: |
+  1. Start at https://app.speak.com/us-en/try or download mobile apps linked from https://www.speak.com/
+  2. Review in-app premium pricing after the 7-day trial.
+  3. Do not list education discount amounts unless Speak publishes an official education offer page.
+
+regional_restrictions:
+  notes: App availability and pricing vary by platform and region.
+
+source_url: https://www.speak.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification.

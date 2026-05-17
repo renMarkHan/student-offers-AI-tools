@@ -1,0 +1,37 @@
+name: Descript
+website: https://www.descript.com
+slug: descript
+
+category:
+  l1: video
+  l2: editing
+
+discount:
+  summary: Education & nonprofit plan at $12 per editor/month (monthly) or $8 per editor/month (annual).
+  details: >
+    Non-profit / Education (EDU/NFP) subscription includes all Hobbyist plan features
+    at a discounted per-editor price. Includes AI credits and features per Hobbyist
+    tier on the public pricing page. Best suited for individual creators; teams needing
+    more seats may need Creator or Business plans.
+
+how_to_apply: |
+  1. Create a free Descript account with your nonprofit or school email address.
+  2. Add a payment method in account settings (you are not charged until approved and you switch plans).
+  3. Submit the EDU/NFP application form linked from the help article.
+  4. After email approval, open App Settings → Plan → Change plan → select EDU/NFP from the plan dropdown and complete checkout.
+
+regional_restrictions:
+  notes: >
+    Available to U.S. 501(c)(3) nonprofits or groups with equivalent charitable status
+    outside the U.S., and to students, educators, and administrators at accredited
+    educational institutions. Nonprofit status rules may vary by country.
+
+source_url: https://help.descript.com/hc/en-us/articles/10255872422029-Non-profits-and-education-pricing
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students, educators, and administrators at accredited educational institutions; qualifying nonprofits.
+proof_required: School or nonprofit email on account; application form review by Descript.
+offer_type: fixed_price
+tags:
+  - music-audio-edit

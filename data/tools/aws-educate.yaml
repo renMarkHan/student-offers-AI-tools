@@ -1,0 +1,35 @@
+name: AWS Educate
+website: https://aws.amazon.com
+slug: aws-educate
+
+category:
+  l1: cloud-api-credits
+  l2: gpu-compute
+
+discount:
+  summary: Free AWS Educate learning platform with hands-on cloud labs; no credit card required (learners 13+ with email).
+  details: >
+    AWS Educate provides free, self-paced training and hands-on labs (storage, compute, networking,
+    databases, cloud operations) via awseducate.com. Registration requires only an email address;
+    learners as young as 13 can sign up per the official AWS Educate page. Job board access is
+    for learners 18+. This is not a published individual dollar credit grant on the Educate landing
+    page—institutional credit programs are separate (see aws-education-equity-initiative.yaml).
+
+how_to_apply: |
+  1. Read https://aws.amazon.com/education/awseducate/
+  2. Register at https://www.awseducate.com/registration/s/registration-detail (or sign in if you have an account).
+  3. Complete free courses and hands-on labs in the Educate catalog.
+  4. For organizational AWS credits, apply to other AWS education programs separately.
+
+regional_restrictions:
+  notes: Open to individuals globally per AWS Educate marketing; job board features limited to learners 18+.
+
+source_url: https://aws.amazon.com/education/awseducate/
+verified_at: 2026-05-17
+status: active
+
+eligibility: Any individual per AWS Educate page (“regardless of where they are in their education, technical experience, or career journey”).
+proof_required: Email registration; no credit card required.
+offer_type: free_tier
+related_tools:
+  - aws-education-equity-initiative

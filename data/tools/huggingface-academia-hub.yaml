@@ -1,0 +1,37 @@
+name: Hugging Face Academia Hub
+website: https://huggingface.co
+slug: huggingface-academia-hub
+
+category:
+  l1: cloud-api-credits
+  l2: model-apis
+
+discount:
+  summary: Institutional Academia Hub at $10/seat/month with $2/seat/month compute credits included (university IT/procurement initiates—not individual student checkout).
+  details: >
+    Academia Hub provides university-level seat management for researchers, professors, and
+    students: 1 TB private storage per seat, team workspaces, priority GPU access (H100/H200),
+    Spaces hosting with ZeroGPU quota, and publishing tools. Pricing documented as $10/seat/month
+    with $2/seat/month compute credits included (top-ups available). Students gain access when
+    their institution subscribes—contact university IT or procurement from an affiliated email.
+
+how_to_apply: |
+  Students and researchers:
+  1. Read https://huggingface.co/docs/hub/academia-hub
+  2. Ask your university IT or procurement team to contact Hugging Face from a university-affiliated email.
+
+  IT / procurement:
+  1. Initiate subscription with Hugging Face using your institutional email.
+  2. Provision seats for researchers, faculty, and/or students per university policy.
+
+regional_restrictions:
+  notes: Enterprise institutional contracts; SSO with university domain per documentation.
+
+source_url: https://huggingface.co/docs/hub/academia-hub
+verified_at: 2026-05-17
+status: active
+
+eligibility: Members of universities that purchase Academia Hub (researchers, professors, students per seat allocation).
+proof_required: Institutional subscription and SSO/seat provisioning—not individual .edu self-serve signup.
+offer_type: fixed_price
+notes: Per-seat pricing is published; total institutional cost depends on seat count. Not a consumer student discount SKU.

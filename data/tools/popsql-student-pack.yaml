@@ -1,0 +1,32 @@
+name: PopSQL (GitHub Student Developer Pack)
+website: https://popsql.com
+slug: popsql-student-pack
+
+category:
+  l1: data-analytics
+  l2: sql-bi
+
+discount:
+  summary: Free PopSQL Premium subscription while you are a student (GitHub Student Developer Pack).
+  details: >
+    Collaborative SQL editor for teams. Partner benefit on the official GitHub Education pack:
+    Premium plan at no cost during student pack eligibility. Redeem through the pack flow.
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/education
+  2. Open https://education.github.com/pack and locate PopSQL.
+  3. Claim the offer and follow redemption instructions.
+  4. Contact students@popsql.com for help if needed.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education verification; PopSQL pack redemption.
+offer_type: free_tier
+related_tools:
+  - github-copilot-student

@@ -1,0 +1,35 @@
+name: Edpuzzle
+website: https://edpuzzle.com
+slug: edpuzzle
+
+category:
+  l1: learning-education
+  l2: course-study-aids
+
+discount:
+  summary: Free Basic plan for teachers and students (up to 20 saved activities per teacher; optional paid Pro Teacher or Pro School).
+  details: >
+    Official help center states Edpuzzle is 100% free for teachers and students on the Basic plan,
+    with a 20-activity storage limit per teacher account. Referrals increase the limit by three
+    activities per verified colleague. Unlimited activities require individual Pro Teacher license
+    or school Pro School plan (paid; contact sales). AI-enhanced features on paid tiers—confirm
+    current AI inclusion on your plan before listing in coursework.
+
+how_to_apply: |
+  1. Read https://support.edpuzzle.com/hc/en-us/articles/360007746251-What-does-Edpuzzle-cost-and-how-can-I-increase-my-content-limit
+  2. Sign up at https://edpuzzle.com as a teacher (verify email).
+  3. Create classes and share class codes with students (students join free under teacher direction).
+  4. Optional: refer colleagues or ask admins about Pro School at https://edpuzzle.com/schools-districts
+
+regional_restrictions:
+  notes: >
+    COPPA/FERPA and regional consent rules apply when inviting students; see Edpuzzle help for
+    teachers on parental consent by country. Candidate URL edpuzzle.com/education returned 404 at verification.
+
+source_url: https://support.edpuzzle.com/hc/en-us/articles/360007746251-What-does-Edpuzzle-cost-and-how-can-I-increase-my-content-limit
+verified_at: 2026-05-17
+status: active
+
+eligibility: Teachers and students in teacher-created classrooms; schools may upgrade to Pro School separately.
+proof_required: Teacher email verification for account; students join via teacher-provided class code.
+offer_type: free_tier

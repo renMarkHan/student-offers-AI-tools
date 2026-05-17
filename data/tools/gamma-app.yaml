@@ -1,0 +1,31 @@
+name: Gamma
+website: https://gamma.app
+slug: gamma-app
+
+category:
+  l1: presentation-documents
+  l2: slides
+
+discount:
+  summary: No official individual student or educator discount published at verification time.
+  details: >
+    https://gamma.app/solutions/educators is a product marketing page for teachers (prompts,
+    testimonials, free signup) but does not document a student pricing SKU, verification flow,
+    or discount percentage. Standard plans require paid subscription per gamma.app pricing.
+
+how_to_apply: |
+  1. Review https://gamma.app/solutions/educators for educator workflows only.
+  2. Use https://gamma.app/signup for standard free/paid tiers.
+  3. Do not list student discount amounts unless Gamma publishes an official education offer page.
+
+regional_restrictions:
+  notes: Unknown until an official student program is documented.
+
+source_url: https://gamma.app/solutions/educators
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Educators landing page is not a documented student discount program.

@@ -1,0 +1,34 @@
+name: Microsoft Translator
+website: https://www.microsoft.com/translator
+slug: microsoft-translator
+
+category:
+  l1: translation-language
+  l2: machine-translation
+
+discount:
+  summary: Free consumer Translator apps and monthly text API trial; no dedicated student discount SKU on the Translator product page.
+  details: >
+    microsoft.com/translator describes free mobile apps, live captioning for inclusive classrooms,
+    and a free monthly text translation API trial via Azure AI Services. Students building apps can
+    use Azure for Students ($100 credit) or institutional Azure education grants—see
+    microsoft-azure-students.yaml and google-cloud-education-grants.yaml for separate programs.
+
+how_to_apply: |
+  1. Use Translator apps from https://www.microsoft.com/en-us/translator/
+  2. For API development, start the Azure free trial linked from the Translator page or Azure for Students.
+  3. Do not list student discount rates on Translator unless Microsoft publishes a dedicated education SKU.
+
+regional_restrictions:
+  notes: Azure service availability and free-tier limits vary by region and account type.
+
+source_url: https://www.microsoft.com/en-us/translator/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: General public free tier; students may qualify for Azure for Students separately.
+proof_required: None for consumer Translator; Azure student verification for credits program.
+offer_type: free_tier
+related_tools:
+  - microsoft-azure-students
+notes: Maintainer flag — needs-verification. No Translator-specific student SKU; Azure for Students is a separate record.

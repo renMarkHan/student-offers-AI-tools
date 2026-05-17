@@ -1,0 +1,31 @@
+name: Photomath
+website: https://photomath.com
+slug: photomath
+
+category:
+  l1: learning-education
+  l2: tutoring-explanation
+
+discount:
+  summary: No official student or education discount program documented on the public website at verification time.
+  details: >
+    Photomath markets a free Basic tier and paid Photomath Plus subscriptions (monthly/annual
+    pricing in app and marketing pages). No dedicated student, .edu, or education pricing page
+    was found on photomath.com during verification.
+
+how_to_apply: |
+  1. Download the app from https://photomath.com/install
+  2. Review in-app Plus pricing for your region.
+  3. Do not list student discount amounts unless Photomath publishes an official education offer.
+
+regional_restrictions:
+  notes: Plus pricing may vary by app store region.
+
+source_url: https://photomath.com/en
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Verify in-app if regional student promos appear.

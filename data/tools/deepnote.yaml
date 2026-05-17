@@ -1,0 +1,33 @@
+name: Deepnote
+website: https://deepnote.com
+slug: deepnote
+
+category:
+  l1: data-analytics
+  l2: notebooks-ml
+
+discount:
+  summary: Free Deepnote Team plan while you are a student (via GitHub Student Developer Pack).
+  details: >
+    Pack offer includes Team plan features while enrolled as a student: unlimited team members
+    and projects, 30-day version history, unlimited basic machines (up to 5GB RAM, 2 vCPU),
+    premium integrations (Snowflake, SQL Server, BigQuery, Redshift, etc.), and 30-day revision
+    history. Jupyter-compatible cloud notebooks with collaboration.
+
+how_to_apply: |
+  1. Obtain GitHub Student Developer Pack membership.
+  2. Visit https://education.github.com/pack and redeem the Deepnote partner offer.
+  3. Follow Deepnote onboarding per redemption email or partner instructions.
+
+regional_restrictions:
+  notes: Requires GitHub Education student status; Deepnote service terms apply.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students with GitHub Student Developer Pack access.
+proof_required: GitHub Education verification; Deepnote pack redemption.
+offer_type: free_tier
+tags:
+  - notebooks-ml

@@ -1,0 +1,31 @@
+name: tl;dv
+website: https://tldv.io
+slug: tldv
+
+category:
+  l1: communication-meetings
+  l2: meeting-assistants
+
+discount:
+  summary: No official student or education discount program found; free-forever consumer tier available.
+  details: >
+    Marketing site advertises a “Free forever” plan with unlimited meetings, transcription, and
+    AI notes for individual use. No education, student, or .edu verification program with
+    published discount terms was found on tldv.io at verification time.
+
+how_to_apply: |
+  1. Sign up at https://tldv.io/app/login (free tier).
+  2. Review paid Business/Enterprise options via contact sales if needed.
+  3. Do not list student discount amounts unless tl;dv publishes an official education offer page.
+
+regional_restrictions:
+  notes: Free tier availability subject to tl;dv terms; paid team plans via sales.
+
+source_url: https://tldv.io/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing beyond general free tier.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification.

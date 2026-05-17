@@ -1,0 +1,36 @@
+name: Fastcase (now vLex)
+website: https://www.fastcase.com
+slug: fastcase-vlex
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: Fastcase merged with vLex; member benefits often via bar associations or law schools—no verified individual law-student AI discount page on fastcase.com.
+  details: >
+    fastcase.com states “Fastcase is now vLex” and directs users to Vincent AI and vLex. The site
+    highlights free member benefits through 80+ bar association partnerships but does not publish
+    a dedicated law-student education discount with pricing or application steps on the homepage
+    checked at verification time. Law students should use institutional vLex access or bar membership
+    benefits where applicable.
+
+how_to_apply: |
+  1. Check whether your state or local bar association includes Fastcase/vLex as a member benefit.
+  2. If you are a law student, ask your law library about vLex institutional access (see vlex-law-schools.yaml).
+  3. For Vincent AI trials, use links on https://www.fastcase.com/ or https://vlex.com/ as directed by your association or school.
+  4. Do not list discount rates unless an official student or education offer page documents them.
+
+regional_restrictions:
+  notes: Bar association benefits vary by jurisdiction; vLex global coverage subject to subscription terms.
+
+source_url: https://www.fastcase.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Bar members with included benefits and/or students at vLex-subscribing law schools.
+proof_required: Bar membership or institutional library authentication depending on path.
+offer_type: other
+related_tools:
+  - vlex-law-schools
+notes: Maintainer flag — needs-verification. Merged brand; confirm current AI features and student access with your bar or law library.

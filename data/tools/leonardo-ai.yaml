@@ -1,0 +1,31 @@
+name: Leonardo.Ai
+website: https://leonardo.ai
+slug: leonardo-ai
+
+category:
+  l1: image-design
+  l2: image-generation
+
+discount:
+  summary: No official individual student or education discount page found at verification time.
+  details: >
+    Public pricing lists Free, Essential, Premium, and Ultimate tiers with token allowances
+    but no education SKU or student verification flow. Leonardo docs state discounts are not
+    applied by default for self-serve users; custom deals require contacting support.
+
+how_to_apply: |
+  1. Review https://leonardo.ai/pricing for standard plans.
+  2. Do not list a student discount percentage unless Leonardo publishes an official education offer page.
+  3. For institutional or volume pricing, use Leonardo’s official contact or custom deals channels only.
+
+regional_restrictions:
+  notes: Unknown until an official student program is documented.
+
+source_url: https://leonardo.ai/pricing/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Candidate list flagged education program as unconfirmed; pricing page has no student terms.

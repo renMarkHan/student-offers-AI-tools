@@ -1,0 +1,31 @@
+name: Krisp
+website: https://krisp.ai
+slug: krisp
+
+category:
+  l1: communication-meetings
+  l2: meeting-assistants
+
+discount:
+  summary: No current official global student or education discount on the public pricing page at verification time.
+  details: >
+    krisp.ai/pricing lists Free Trial, Core, Advanced, and Enterprise meeting-assistant plans.
+    Historical COVID-19 free access for students ended in 2020 per Krisp blog archives; no
+    active student SKU or education application page was found on the current pricing site.
+
+how_to_apply: |
+  1. Review https://krisp.ai/pricing for Meeting AI plans.
+  2. Start the 7-day free trial (no credit card per page) or contact sales for volume/enterprise.
+  3. Do not list student discount percentages unless Krisp publishes a current official education offer.
+
+regional_restrictions:
+  notes: Partner or regional promos may exist—confirm only via official Krisp channels.
+
+source_url: https://krisp.ai/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Blog content covers educational use cases but not a priced student program.

@@ -1,0 +1,31 @@
+name: DeepL Pro
+website: https://www.deepl.com
+slug: deepl-pro
+
+category:
+  l1: translation-language
+  l2: machine-translation
+
+discount:
+  summary: No public self-serve student or education SKU on DeepL Pro pricing at verification time.
+  details: >
+    Consumer plans are sold via deepl.com/pro. DeepL Help Center directs high-volume or
+    organizational users to contact Sales for alternative arrangements. No student verification
+    flow or education discount percentage is published on the Pro marketing or contact pages checked.
+
+how_to_apply: |
+  1. Review https://www.deepl.com/pro for individual/team plans.
+  2. For institutional or academic volume licensing, submit https://www.deepl.com/en/contact-us (Sales).
+  3. Do not list education discount rates unless DeepL publishes an official student/education offer page.
+
+regional_restrictions:
+  notes: Enterprise and education arrangements negotiated per contract.
+
+source_url: https://www.deepl.com/pro
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Academic licenses may be available via Sales only.

@@ -1,0 +1,36 @@
+name: GitHub Education Experiences
+website: https://education.github.com
+slug: github-education-experiences
+
+category:
+  l1: platforms-bundles
+  l2: student-programs
+
+discount:
+  summary: Free curated learning Experiences (e.g. Intro to Copilot) for verified GitHub Education students.
+  details: >
+    GitHub Education Experiences bundle pack partner tools, GitHub resources, and tutorials into
+    guided paths such as “Intro to Copilot,” “Intro to GitHub,” and “Data Science & Machine Learning.”
+    Access to fork repos and action items requires verified student status on GitHub Education.
+    Experiences teach AI-assisted development; they do not replace partner cloud credit offers listed
+    on the Student Developer Pack.
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/settings/education/benefits
+  2. After verification, browse https://education.github.com/experiences/
+  3. Open an Experience (e.g. https://education.github.com/experiences/intro_to_copilot)
+  4. Follow the Experience overview and “Take Action” steps (fork repos, tutorials).
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification; content unavailable without verified status per Experience pages.
+
+source_url: https://education.github.com/experiences/intro_to_copilot
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Education students.
+proof_required: GitHub Education student verification.
+offer_type: free_tier
+related_tools:
+  - github-student-developer-pack
+  - github-copilot-student

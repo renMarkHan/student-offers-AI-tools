@@ -1,0 +1,31 @@
+name: Brainly
+website: https://brainly.com
+slug: brainly
+
+category:
+  l1: learning-education
+  l2: tutoring-explanation
+
+discount:
+  summary: No official individual student or .edu discount program documented on public pricing/FAQ at verification time.
+  details: >
+    Brainly Plus and Brainly Tutor are sold as standard consumer subscriptions (help center
+    documents features, trials, and auto-renewal). No education or student verification flow
+    with published discount rates was found on brainly.com or US FAQ articles checked.
+
+how_to_apply: |
+  1. Review https://brainly.com/ for current Plus/Tutor plans.
+  2. Check https://faq-us.brainly.com/ for subscription terms.
+  3. Do not list .edu or student discount percentages without an official Brainly education page.
+
+regional_restrictions:
+  notes: Plans and pricing vary by region and platform (web vs app).
+
+source_url: https://faq-us.brainly.com/support/solutions/articles/10000000142-brainly-plus-features
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Research flagged possible .edu promos—none verified on official FAQ.

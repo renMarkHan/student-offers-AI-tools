@@ -1,0 +1,33 @@
+name: Oracle Cloud Free Tier
+website: https://www.oracle.com/cloud
+slug: oracle-cloud-free-tier
+
+category:
+  l1: cloud-api-credits
+  l2: hosting-deploy
+
+discount:
+  summary: $300 cloud credit for 30 days plus Always Free OCI services; no dedicated student/education SKU found on oracle.com/cloud/free at verification time.
+  details: >
+    Oracle Cloud Free Tier offers US$300 credits for 30 days to test OCI services, then continues
+    with Always Free services if you do not convert to Pay As You Go. AI/ML services (e.g. Data
+    Science, Language) appear under trial/always-free tiers on the free tier page. Oracle does not
+    publish a separate student discount or education credit program on this page.
+
+how_to_apply: |
+  1. Review https://www.oracle.com/cloud/free/
+  2. Sign in or create an Oracle Cloud account and start the Free Tier.
+  3. Use $300 credits within the 30-day trial window per Oracle terms.
+  4. Do not list student-specific benefits unless Oracle publishes an official education offer page.
+
+regional_restrictions:
+  notes: Free tier availability and Always Free service limits vary by region per Oracle documentation.
+
+source_url: https://www.oracle.com/cloud/free/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: General new Oracle Cloud Free Tier accounts; student-specific eligibility not documented on source page.
+proof_required: Oracle account signup; payment verification may apply for some upgrade paths per Oracle terms.
+offer_type: credits
+notes: Maintainer flag — needs-verification for student-specific AI credits. General free tier only at verification time.

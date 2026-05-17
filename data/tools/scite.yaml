@@ -1,0 +1,33 @@
+name: Scite
+website: https://scite.ai
+slug: scite
+
+category:
+  l1: research-academia
+  l2: literature-search
+
+discount:
+  summary: Student/academic discount available only after emailing support when recommending Scite to your institution (no public discount rate).
+  details: >
+    Official pricing FAQ states discounts for students and academics if you recommend Scite to
+    your institution: email customersupport@researchsolutions.com and sales@scite.ai (cc or
+    forward) to receive a discount code. No self-serve student checkout or published percentage
+    on scite.ai/pricing.
+
+how_to_apply: |
+  1. Email your institution about adopting Scite (library or department).
+  2. Cc or forward the thread to customersupport@researchsolutions.com and sales@scite.ai
+  3. Request your student/academic discount code per the FAQ.
+  4. Apply the code at checkout if provided.
+
+regional_restrictions:
+  notes: Discount terms determined by support response; not guaranteed for all applicants.
+
+source_url: https://scite.ai/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Students and academics who refer Scite to their institution per FAQ wording.
+proof_required: Email correspondence with support; institution referral expected.
+offer_type: other
+notes: Maintainer flag — needs-verification. No fixed student discount % or dedicated education URL on official site.

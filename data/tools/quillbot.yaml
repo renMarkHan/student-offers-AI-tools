@@ -1,0 +1,33 @@
+name: QuillBot Premium
+website: https://quillbot.com
+slug: quillbot
+
+category:
+  l1: translation-language
+  l2: machine-translation
+
+discount:
+  summary: Discounted QuillBot Premium plans for students (rates shown at checkout on the student pricing page).
+  details: >
+    Official student page advertises exclusive discounted Premium plans but does not publish a
+    fixed percentage on the page. QuillBot also links partner student discount flows (e.g. UNiDAYS)
+    from other marketing pages—confirm the final price on quillbot.com/upgrade/student before paying.
+    Do not use third-party coupon sites as source_url.
+
+how_to_apply: |
+  1. Visit https://quillbot.com/upgrade/student
+  2. Sign in or create a QuillBot account.
+  3. Select a Premium plan and complete checkout to see the student rate applied.
+
+regional_restrictions:
+  notes: Regional pricing and partner eligibility not specified on the student landing page.
+
+source_url: https://quillbot.com/upgrade/student
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students purchasing QuillBot Premium through the official student pricing page.
+proof_required: Confirm at checkout; partner portals may require separate student verification.
+offer_type: other
+tags:
+  - writing-text

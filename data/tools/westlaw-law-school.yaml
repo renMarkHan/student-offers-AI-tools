@@ -1,0 +1,39 @@
+name: Westlaw (Law School)
+website: https://lawschool.westlaw.com
+slug: westlaw-law-school
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: Westlaw and related Thomson Reuters law-school products included with your law school subscription (not direct consumer signup).
+  details: >
+    Law students access Westlaw, Practical Law, TWEN, and other Thomson Reuters tools through
+    institutional subscriptions purchased by their law school. Thomson Reuters Law School support
+    documents OnePass credentials and registration keys distributed by the school—there is no
+    universal public student discount rate on a checkout page. Plan scope varies; some documents
+    may be outside your school’s subscription.
+
+how_to_apply: |
+  1. Obtain your Westlaw/TWEN registration key from your law school library or orientation materials.
+  2. Complete registration for https://lawschool.thomsonreuters.com/ if prompted.
+  3. Create or use your OnePass at https://onepass.westlaw.com/ to sign in to Westlaw.
+  4. Sign in at https://lawschool.westlaw.com/ for the Law School Portal when required.
+  5. For access issues or content outside your plan, contact Law School support at 1-800-850-9378.
+
+regional_restrictions:
+  notes: >
+    Primarily U.S. law school programs; content availability depends on each school’s subscription.
+    Transferring or visiting students should request a new registration key from the host institution.
+
+source_url: https://lawschool.thomsonreuters.com/contact-us/
+verified_at: 2026-05-17
+status: active
+
+eligibility: Law students at institutions with a Thomson Reuters law school subscription.
+proof_required: School-issued registration key and OnePass account provisioning.
+offer_type: other
+related_tools:
+  - cocounsel-law-school
+notes: Campus subscription model—pricing not published as an individual student SKU.

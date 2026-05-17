@@ -1,0 +1,39 @@
+name: OpenAI Researcher Access Program
+website: https://openai.com
+slug: openai-researcher-access
+
+category:
+  l1: cloud-api-credits
+  l2: model-apis
+
+discount:
+  summary: Up to $1,000 in subsidized OpenAI API credits for eligible academic and nonprofit researchers.
+  details: >
+    Credits are valid for 12 months and apply to publicly available API models. Program focuses
+    on responsible AI deployment, risk mitigation, and societal impacts—not a general consumer
+    student discount for ChatGPT Plus. Applications reviewed quarterly (March, June, September,
+    December); decisions typically 4–6 weeks after each review window.
+
+how_to_apply: |
+  1. Read https://help.openai.com/en/articles/10139500-researcher-access-program-faq
+  2. Submit an application at https://openai.com/form/researcher-access-program/
+  3. Include affiliation with an academic institution or qualifying research nonprofit.
+  4. Wait for quarterly review and email notification.
+
+regional_restrictions:
+  notes: >
+    Applicants must be in countries supported by the OpenAI API per platform documentation.
+    Priority for researchers with limited financial and institutional resources.
+
+source_url: https://help.openai.com/en/articles/10139500-researcher-access-program-faq
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  Researchers with active affiliation to an academic institution or research nonprofit conducting
+  research (not operational support). Graduate students and faculty may qualify if proposal fits program goals.
+proof_required: Application review; institutional affiliation verification.
+offer_type: credits
+tags:
+  - research-academia
+notes: Research API credits—not a general consumer student ChatGPT discount.

@@ -1,0 +1,34 @@
+name: DigitalOcean (GitHub Student Developer Pack)
+website: https://www.digitalocean.com
+slug: digitalocean-student-pack
+
+category:
+  l1: cloud-api-credits
+  l2: hosting-deploy
+
+discount:
+  summary: $200 in DigitalOcean platform credit for 1 year via GitHub Student Developer Pack.
+  details: >
+    Official GitHub Education pack listing: “Enjoy $200 in platform credit for 1 year!” for
+    simple cloud hosting. Requires approved GitHub Student Developer Pack membership; redeem
+    through the partner flow on education.github.com/pack—not a standalone DigitalOcean student
+    checkout page.
+
+how_to_apply: |
+  1. Apply for and receive GitHub Education / Student Developer Pack approval.
+  2. Open https://education.github.com/pack and locate DigitalOcean.
+  3. Click through to redeem and link your DigitalOcean account per partner instructions.
+  4. Use credits within the 1-year period stated on the pack offer.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification; DigitalOcean service availability per vendor terms.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education verification; DigitalOcean pack redemption.
+offer_type: credits
+related_tools:
+  - github-student-developer-pack

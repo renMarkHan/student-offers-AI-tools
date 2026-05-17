@@ -1,0 +1,32 @@
+name: GroqCloud
+website: https://groq.com
+slug: groq-cloud-credits
+
+category:
+  l1: cloud-api-credits
+  l2: model-apis
+
+discount:
+  summary: No public student or education credit program with published amounts on groq.com at verification time.
+  details: >
+    Groq markets GroqCloud inference with a “Try Groq for Free” console signup and partner/hackathon
+    programs. The consumer homepage does not document a student discount, education grant, or
+    fixed credit amount for enrolled students. Promo or startup credits may exist via separate
+    application flows—verify on console.groq.com or Groq partner pages before listing terms.
+
+how_to_apply: |
+  1. Review https://groq.com/ and https://console.groq.com/ for current free tier limits.
+  2. Check Groq partner or hackathon pages if applying for promotional credits.
+  3. Do not list credit dollar amounts unless an official Groq education or student page publishes them.
+
+regional_restrictions:
+  notes: GroqCloud API availability per Groq documentation and supported regions.
+
+source_url: https://groq.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for dedicated student/education program.
+proof_required: Unknown.
+offer_type: credits
+notes: Maintainer flag — needs-verification. Research noted startup/cloud credits via application—no official student SKU found.

@@ -1,0 +1,30 @@
+name: Murf AI
+website: https://murf.ai
+slug: murf-ai
+
+category:
+  l1: audio-voice
+  l2: text-to-speech
+
+discount:
+  summary: 20% off for students, teachers, educational institutes, and nonprofits (code after email verification).
+  details: >
+    Discount valid for 6 months on monthly plans or one annual subscription on yearly plans.
+    Murf.ai/education returned 404 at verification time; terms are documented in the
+    official help center article.
+
+how_to_apply: |
+  1. Read https://help.murf.ai/do-you-offer-any-discount
+  2. Email Murf with valid credentials and supporting documents (student/teacher/institute proof).
+  3. After verification, apply the discount code Murf sends at checkout.
+
+regional_restrictions:
+  notes: Not specified in help article; confirm with Murf support when applying.
+
+source_url: https://help.murf.ai/do-you-offer-any-discount
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students, teachers, educational institutes, and nonprofit organizations.
+proof_required: Email credentials and supporting documents to Murf for manual verification.
+offer_type: percent_off

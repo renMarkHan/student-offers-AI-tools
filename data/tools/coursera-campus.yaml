@@ -1,0 +1,32 @@
+name: Coursera for Campus
+website: https://www.coursera.org
+slug: coursera-campus
+
+category:
+  l1: learning-education
+  l2: course-study-aids
+
+discount:
+  summary: Institutional Coursera for Campus licensing for universities—not an individual student self-serve discount.
+  details: >
+    coursera.org/campus markets employability-focused course access, Professional Certificates,
+    Career Academy, and LMS integration for higher-ed institutions via sales. No individual
+    student discount percentage or free Plus tier is published on this page. Learners may use
+    course financial aid or Coursera Plus consumer promos separately (not campus-specific).
+
+how_to_apply: |
+  1. University administrators review https://www.coursera.org/campus
+  2. Contact Coursera sales via on-page forms for Campus / Career Academy.
+  3. Students: access courses through your institution if licensed, or use consumer coursera.org enrollment options.
+
+regional_restrictions:
+  notes: Campus contracts are institution-specific; consumer Coursera Plus availability varies by country.
+
+source_url: https://www.coursera.org/campus
+verified_at: 2026-05-17
+status: active
+
+eligibility: Higher-education institutions and their enrolled students when the institution purchases Campus—not individual consumer student SKU.
+proof_required: Institutional agreement; student access via university provisioning.
+offer_type: other
+notes: Institutional (🏫) program only—not an individual self-serve student discount on coursera.org.

@@ -1,0 +1,31 @@
+name: Photoroom
+website: https://www.photoroom.com
+slug: photoroom
+
+category:
+  l1: image-design
+  l2: photo-editing
+
+discount:
+  summary: No official student or education discount program found at verification time.
+  details: >
+    https://www.photoroom.com/education returned 404. Help center articles describe Free,
+    Pro, Max, and Ultra consumer/team plans and AI credit limits but do not document a
+    student or educator discount or .edu verification flow.
+
+how_to_apply: |
+  1. Review https://www.photoroom.com/pricing for standard plans.
+  2. Do not list discount percentages from third-party coupon sites.
+  3. Re-check if Photoroom publishes an official education or student offer page.
+
+regional_restrictions:
+  notes: Unknown until an official student program is documented.
+
+source_url: https://help.photoroom.com/en/articles/6976012-what-are-photoroom-s-plans
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Former candidate URL photoroom.com/education was not available (404).

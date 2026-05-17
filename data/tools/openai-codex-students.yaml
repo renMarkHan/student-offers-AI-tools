@@ -1,0 +1,35 @@
+name: OpenAI Codex (Students)
+website: https://developers.openai.com/codex
+slug: openai-codex-students
+
+category:
+  l1: coding-development
+  l2: api-sdks
+
+discount:
+  summary: $100 in ChatGPT credits for Codex (2,500 credits) for verified university students in the US and Canada.
+  details: >
+    Credits are applied to your ChatGPT account for use in Codex—not OpenAI API credits.
+    One offer per student. Credits expire 12 months after grant. Requires ChatGPT Free, Go,
+    Plus, or Pro plan. Verification via SheerID; personal ChatGPT account may be used if
+    student status is verified with university email during claim.
+
+how_to_apply: |
+  1. Sign in to ChatGPT (create an account if needed).
+  2. Visit https://chatgpt.com/codex/offers/students
+  3. Complete SheerID student verification with your university email.
+  4. Credits apply automatically to your personal workspace after approval.
+
+regional_restrictions:
+  countries: [US, CA]
+  notes: >
+    Must be enrolled at a degree-granting university in the US or Canada and residing in
+    the US or Canada when claiming. Limit one credit offer per student.
+
+source_url: https://help.openai.com/en/articles/20001147-codex-credits-for-students-terms-of-service
+verified_at: 2026-05-17
+status: active
+
+eligibility: Current students at degree-granting universities in the United States or Canada.
+proof_required: SheerID verification with university email during claim flow.
+offer_type: credits

@@ -1,0 +1,37 @@
+name: GitHub Copilot (Student)
+website: https://github.com/features/copilot
+slug: github-copilot-student
+
+category:
+  l1: platforms-bundles
+  l2: suites
+
+discount:
+  summary: Free GitHub Copilot Student for verified GitHub Education students (unlimited completions; 300 premium requests/month per plan docs).
+  details: >
+    Copilot Student includes unlimited IDE completions, Copilot Chat with included models,
+    and up to 300 premium requests per month (additional requests billed per GitHub docs).
+    GitHub reevaluates student eligibility monthly. IMPORTANT: Starting April 20, 2026,
+    new sign-ups for Copilot Pro, Copilot Pro+, and student plans are temporarily paused
+    per GitHub documentation—confirm current enrollment before applying.
+
+how_to_apply: |
+  1. Apply for GitHub Education as a student (degree/diploma program, age 13+, school email or proof).
+  2. Go to https://github.com/settings/education/benefits
+  3. Under "Free GitHub developer resources", open Copilot Student and follow activation prompts.
+  4. Alternatively claim via GitHub Student Developer Pack at https://education.github.com/pack
+
+regional_restrictions:
+  notes: GitHub Education student eligibility is global per apply-to-education docs; Copilot feature availability may vary by region.
+
+source_url: https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified students on GitHub Education; at least 13 years old; personal GitHub account.
+proof_required: GitHub Education verification (school-issued email, student ID, schedule, transcript, or enrollment letter).
+offer_type: free_tier
+tags:
+  - coding-development
+related_tools:
+  - github-student-developer-pack

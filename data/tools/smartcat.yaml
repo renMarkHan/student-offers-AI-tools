@@ -1,0 +1,31 @@
+name: Smartcat
+website: https://www.smartcat.com
+slug: smartcat
+
+category:
+  l1: translation-language
+  l2: localization
+
+discount:
+  summary: No public individual student discount; enterprise and academic licensing via sales only.
+  details: >
+    Smartcat markets AI translation and localization for teams with free tier entry (“Priced
+    from: $0”) and paid plans for higher volume. No student, .edu, or university self-serve program
+    with published discount terms was found on smartcat.com at verification time.
+
+how_to_apply: |
+  1. Review https://www.smartcat.com/ for team plans.
+  2. Contact Smartcat sales for institutional or academic volume arrangements.
+  3. Do not list education discount percentages unless Smartcat publishes an official student offer page.
+
+regional_restrictions:
+  notes: Enterprise contracts vary by organization and region.
+
+source_url: https://www.smartcat.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Phrase/enterprise localization; academic licenses via sales per research notes.

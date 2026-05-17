@@ -1,0 +1,34 @@
+name: Perplexity Pro
+website: https://www.perplexity.ai
+slug: perplexity
+
+category:
+  l1: writing-text
+  l2: general-writing
+
+discount:
+  summary: 50% off Perplexity Pro for students and educators.
+  details: >
+    Official education page states students and educators receive half off Perplexity Pro.
+    Some universities may receive sponsored or campus-wide access (listed separately on the
+    education page). Verification method (e.g. SheerID or .edu) may appear in checkout—confirm
+    on perplexity.ai when claiming; help center was unavailable at verification time.
+
+how_to_apply: |
+  1. Visit https://www.perplexity.ai/education
+  2. Click "Get access now" and sign in or create an account.
+  3. Complete student or educator verification when prompted at checkout.
+  4. If your school is listed under sponsored schools, follow your institution's access path instead.
+
+regional_restrictions:
+  notes: Confirm regional eligibility during verification flow; sponsored school programs vary.
+
+source_url: https://www.perplexity.ai/education
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students and educators per official education page.
+proof_required: Student/educator verification at signup (see checkout flow).
+offer_type: percent_off
+tags:
+  - literature-search

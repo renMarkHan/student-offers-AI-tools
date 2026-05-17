@@ -1,0 +1,31 @@
+name: Educative
+website: https://www.educative.io
+slug: educative
+
+category:
+  l1: coding-development
+  l2: code-assistants
+
+discount:
+  summary: 6 months free Educative access plus 30% off subscriptions via GitHub Student Developer Pack.
+  details: >
+    Pack offer: six months of free access to 70+ courses (web dev, Python, Java, machine learning,
+    etc.), then 30% discount on any Educative subscription you choose. Redemption requires GitHub
+    Student Pack; contact github-students@educative.io per pack page for support.
+
+how_to_apply: |
+  1. Apply for and receive GitHub Student Developer Pack approval.
+  2. Open https://education.github.com/pack and locate Educative.
+  3. Redeem the offer using the pack partner flow (GitHub student account).
+
+regional_restrictions:
+  notes: Offer delivered through GitHub Education; Educative account terms apply after redemption.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: GitHub Student Developer Pack members.
+proof_required: GitHub Education verification; Educative redemption via pack.
+offer_type: other
+notes: Combines free_tier (6 months) and percent_off (30% thereafter) per pack wording.

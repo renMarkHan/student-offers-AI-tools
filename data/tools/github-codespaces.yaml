@@ -1,0 +1,30 @@
+name: GitHub Codespaces
+website: https://github.com/features/codespaces
+slug: github-codespaces
+
+category:
+  l1: coding-development
+  l2: dev-environments
+
+discount:
+  summary: Free Pro-level GitHub Codespaces access via GitHub Student Developer Pack.
+  details: >
+    Offer text on the Student Developer Pack: "Free Pro level access to Codespaces to use
+    anywhere in your account." Requires approved GitHub Education / Student Developer Pack
+    membership. Usage limits and quotas follow GitHub Codespaces billing docs for Pro benefits.
+
+how_to_apply: |
+  1. Apply for GitHub Education as a student at https://github.com/settings/education/benefits
+  2. After approval, open https://education.github.com/pack and claim GitHub Codespaces.
+  3. Create or open a codespace from a repository on GitHub.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification (age 13+, enrolled in degree/diploma program).
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Education students with Student Developer Pack access.
+proof_required: GitHub Education student verification.
+offer_type: free_tier

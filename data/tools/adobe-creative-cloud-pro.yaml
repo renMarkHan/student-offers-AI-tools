@@ -1,0 +1,42 @@
+name: Adobe Creative Cloud Pro
+website: https://www.adobe.com/creativecloud.html
+slug: adobe-creative-cloud-pro
+
+category:
+  l1: video
+  l2: editing
+
+discount:
+  summary: Students and teachers save 69% on Creative Cloud Pro for the first year (US pricing shown on official page).
+  details: >
+    US introductory pricing examples from the official student pricing page: $19.99/month
+    for the first year on an annual month-to-month commitment, or $239.88/year prepaid for
+    the first year. After the offer term, membership renews at the then-current standard
+    rate (listed as $39.99/month or $479.88/year on the page at time of verification).
+    Includes Premiere, Photoshop, Illustrator, Acrobat Pro, Adobe Express, and generative
+    AI (Firefly) features per plan terms. First-time memberships only; one purchase per
+    customer; must buy direct from Adobe Store or Adobe Sales.
+
+how_to_apply: |
+  1. Visit the Adobe Creative Cloud student pricing page (source_url).
+  2. Confirm you are an eligible student (13+) or teacher purchasing for education use.
+  3. Choose annual prepaid or annual paid monthly plan and complete checkout on the Adobe Store.
+  4. Retain proof of eligibility; Adobe may verify education status per their terms.
+
+regional_restrictions:
+  countries: [US]
+  notes: >
+    Pricing and percentages on source_url are US-specific at time of verification.
+    Eligible students 13+ and teachers worldwide may have regional pricing pages—confirm
+    on your local adobe.com store before purchase.
+
+source_url: https://www.adobe.com/products/pricing-info/ccste-pricing-info.html
+verified_at: 2026-05-17
+status: active
+
+eligibility: Eligible students aged 13+ and teachers; first-time Creative Cloud annual membership only.
+proof_required: Education customer purchase through Adobe Store or Adobe Sales; eligibility per Adobe terms.
+offer_type: percent_off
+tags:
+  - image-generation
+  - music-audio-edit

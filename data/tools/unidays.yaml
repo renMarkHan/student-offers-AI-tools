@@ -1,0 +1,32 @@
+name: UNiDAYS
+website: https://www.myunidays.com
+slug: unidays
+
+category:
+  l1: platforms-bundles
+  l2: marketplaces
+
+discount:
+  summary: Third-party student discount marketplace; partner offers vary and must be verified on each vendor’s official education page—not UNiDAYS as primary source_url.
+  details: >
+    UNiDAYS aggregates student deals from many brands. Discount percentages and eligibility differ
+    per partner and region. This repository uses vendor official pages (e.g. quillbot.com) as
+    source_url for tool records; UNiDAYS is a secondary redemption path when noted on vendor sites.
+
+how_to_apply: |
+  1. Register for UNiDAYS student membership at https://www.myunidays.com/ (region-specific site).
+  2. Verify student status per UNiDAYS flow (institution, age, and regional rules).
+  3. For AI tools in this catalog, prefer the vendor’s official student/education URL for terms.
+  4. Do not list partner discount rates here unless copying an official vendor page.
+
+regional_restrictions:
+  notes: UNiDAYS operates in multiple countries with separate storefronts; offers vary by region.
+
+source_url: https://www.myunidays.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Students per UNiDAYS verification in your region.
+proof_required: UNiDAYS student verification (method varies by country).
+offer_type: other
+notes: Maintainer flag — needs-verification per partner offer. Secondary aggregator—not primary source for YAML entries in this repo.

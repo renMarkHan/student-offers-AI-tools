@@ -1,0 +1,31 @@
+name: SlideCoach
+website: https://www.slidecoach.ai
+slug: slidecoach
+
+category:
+  l1: presentation-documents
+  l2: slides
+
+discount:
+  summary: 2,000 free SlideCoach credits (~40 AI presentation sessions) for one year after redemption via GitHub Student Pack.
+  details: >
+    AI presentation coach for practice and feedback. Credits valid one year after redemption
+    through the GitHub Student Developer Pack partner offer.
+
+how_to_apply: |
+  1. Join GitHub Student Developer Pack as a verified student.
+  2. Go to https://education.github.com/pack and claim the SlideCoach offer.
+  3. Redeem credits per SlideCoach partner instructions.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: GitHub Student Developer Pack members.
+proof_required: GitHub Education verification; SlideCoach pack redemption.
+offer_type: credits
+related_tools:
+  - github-copilot-student

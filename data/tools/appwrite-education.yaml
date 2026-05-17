@@ -1,0 +1,30 @@
+name: Appwrite Education
+website: https://appwrite.io
+slug: appwrite-education
+
+category:
+  l1: coding-development
+  l2: dev-environments
+
+discount:
+  summary: Free Appwrite Education plan (2 Pro-equivalent projects) while you remain in the GitHub Student Developer Pack.
+  details: >
+    Pack offer (May 2026): free Education plan with 2 projects at Appwrite Pro resource limits
+    (listed as worth $40/month on the pack page). Platform includes backend and hosting for
+    web, mobile, and AI apps. Valid while you remain a GitHub Student Developer Pack member.
+
+how_to_apply: |
+  1. Get approved for GitHub Education / Student Developer Pack.
+  2. Visit https://education.github.com/pack and find Appwrite.
+  3. Follow the partner redemption link and instructions on the pack offer card.
+
+regional_restrictions:
+  notes: Tied to GitHub Student Developer Pack eligibility and partner redemption terms.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: GitHub Student Developer Pack members.
+proof_required: GitHub Education student verification; Appwrite partner redemption per pack flow.
+offer_type: free_tier

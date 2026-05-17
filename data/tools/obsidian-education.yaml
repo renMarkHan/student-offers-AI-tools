@@ -1,0 +1,36 @@
+name: Obsidian (Education Discount)
+website: https://obsidian.md
+slug: obsidian-education
+
+category:
+  l1: productivity-notes
+  l2: note-taking
+
+discount:
+  summary: 40% off Obsidian Sync and Obsidian Publish for students and faculty (core app remains free).
+  details: >
+    Obsidian’s note-taking app is free without limits. Education discount applies only to paid
+    add-ons Sync (cross-device sync, encryption, version history) and Publish (web publishing).
+    Commercial license ($50/user/year) is separate and encouraged for organizational work but not
+    required; education discount does not apply to Commercial or Catalyst licenses per help docs.
+
+how_to_apply: |
+  1. Read https://obsidian.md/help/discounts
+  2. Create an Obsidian account if needed.
+  3. Go to https://obsidian.md/account/billing → Billing → Discount → Apply.
+  4. Select education discount and submit your school/organization email (not necessarily your account email).
+  5. Verify via email link; allow up to 3 business days if not instant.
+  6. Renew before expiry using the same flow (reminder email sent one week prior).
+
+regional_restrictions:
+  notes: >
+    Generally for students or faculty at universities or high schools. Without school email,
+    submit student ID, transcript, or employee ID to Obsidian support with your account email.
+
+source_url: https://obsidian.md/help/discounts
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students or faculty at education organizations; nonprofit discount is a separate application type.
+proof_required: Educational organization email verification, or alternate documents via support.
+offer_type: percent_off

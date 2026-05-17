@@ -1,0 +1,40 @@
+name: Autodesk Education
+website: https://www.autodesk.com
+slug: autodesk-education
+
+category:
+  l1: image-design
+  l2: ui-graphic-design
+
+discount:
+  summary: Free one-year, single-user access to Autodesk software and cloud services for eligible students (renewable annually).
+  details: >
+    Education plan includes the same features as paid subscriptions for covered titles,
+    current version plus up to three prior versions where available, and installation on
+    up to three devices. Software catalog includes Fusion (generative design), AutoCAD,
+    Maya, 3ds Max, Forma, and media tools such as Autodesk Flow Studio (AI-powered VFX;
+    post-secondary students age 18+ per product listing on edu-software overview). Use is
+    limited to learning, teaching, and educational research—not commercial work. Cloud
+    services may have fair-use limits for education users.
+
+how_to_apply: |
+  1. Confirm eligibility at https://www.autodesk.com/support/account/education/students-educators/eligibility
+  2. Sign in or create an Autodesk account at https://www.autodesk.com/education/edu-software/overview
+  3. Select products to download and complete education verification (SheerID) when prompted.
+  4. Renew up to 30 days before expiration via account education renewal flow while still eligible.
+
+regional_restrictions:
+  notes: >
+    Available to eligible students worldwide per Autodesk education program; minimum age
+    requirements vary by country (see Autodesk minimum age requirements PDF linked from overview).
+    Most software offered in English; some titles in additional languages.
+
+source_url: https://www.autodesk.com/support/account/education/students-educators/overview
+verified_at: 2026-05-17
+status: active
+
+eligibility: Eligible students at qualified educational institutions for educational purposes only.
+proof_required: SheerID or Autodesk education verification (enrollment/employment proof as requested).
+offer_type: free_tier
+tags:
+  - image-generation

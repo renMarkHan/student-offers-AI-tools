@@ -1,0 +1,32 @@
+name: Icons8 (GitHub Student Developer Pack)
+website: https://icons8.com
+slug: icons8-student-pack
+
+category:
+  l1: image-design
+  l2: ui-graphic-design
+
+discount:
+  summary: Free 3-month Icons8 subscription (icons, photos, illustrations, music) via GitHub Student Developer Pack.
+  details: >
+    Partner benefit on the official GitHub Education pack page—not a standalone Icons8
+    student checkout. Includes design resources used in UI and graphic projects.
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/education
+  2. Open https://education.github.com/pack and locate the Icons8 offer.
+  3. Claim the pack benefit and follow Icons8 redemption instructions from the pack flow.
+  4. Contact Icons8 support at https://icons8.com/contact if redemption fails.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification; pack availability subject to GitHub program rules.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education student verification.
+offer_type: extended_trial
+related_tools:
+  - github-copilot-student

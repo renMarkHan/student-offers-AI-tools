@@ -1,0 +1,44 @@
+name: GitHub Student Developer Pack
+website: https://github.com
+slug: github-student-developer-pack
+
+category:
+  l1: platforms-bundles
+  l2: student-programs
+
+discount:
+  summary: Free partner cloud and developer tools for verified GitHub Education students (e.g. $100 Azure credit, $200 DigitalOcean credit, GitHub Pro, Copilot Student).
+  details: >
+    The official pack bundles offers from partners on education.github.com/pack—each partner
+    documents its own benefit on the pack page. Examples verified on the pack listing at
+    verification time: Microsoft Azure ($100 credit, students 18+), Microsoft Azure for ages
+    13–17 (limited services), DigitalOcean ($200 platform credit for 1 year), GitHub Pro,
+    GitHub Copilot Student, and many other cloud/ML partners. Redeem per-partner after GitHub
+    Education student approval.
+
+how_to_apply: |
+  1. Apply for GitHub Education as a student at https://github.com/settings/education/benefits
+  2. Provide proof of enrollment (school email, student ID, schedule, transcript, or letter per GitHub docs).
+  3. After approval, open https://education.github.com/pack and claim each partner offer.
+  4. Follow the partner-specific redemption link for cloud credits (Azure, DigitalOcean, etc.).
+
+regional_restrictions:
+  notes: >
+    GitHub Education student verification is available globally per GitHub documentation; individual
+    partner offers may have regional limits. Applicants must be at least 13 years old and in a
+    degree/diploma-granting program.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Education students (degree/diploma program; age 13+ per GitHub Education rules).
+proof_required: GitHub Education verification (institutional email or approved documents).
+offer_type: other
+tags:
+  - cloud-api-credits
+related_tools:
+  - microsoft-azure-students
+  - digitalocean-student-pack
+  - github-copilot-student
+notes: Hub listing—see separate YAML files for major cloud partners where maintained.

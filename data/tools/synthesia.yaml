@@ -1,0 +1,31 @@
+name: Synthesia
+website: https://www.synthesia.io
+slug: synthesia
+
+category:
+  l1: video
+  l2: avatars-presenting
+
+discount:
+  summary: Education discount program not confirmed on an official public URL at verification time.
+  details: >
+    Research candidate linked to https://www.synthesia.io/education returned HTTP 404.
+    Pricing page lists standard commercial plans only. Contact Synthesia sales or support
+    for institutional/education pricing before publishing a specific discount.
+
+how_to_apply: |
+  1. Check https://www.synthesia.io/pricing for current plans.
+  2. Contact Synthesia via official site for education or classroom pricing.
+  3. Do not list a discount percentage until confirmed on an official offer page.
+
+regional_restrictions:
+  notes: Unknown until official education terms are published.
+
+source_url: https://www.synthesia.io/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown — needs official education program documentation.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. /education URL not found; source_url set to public pricing until edu page is confirmed.

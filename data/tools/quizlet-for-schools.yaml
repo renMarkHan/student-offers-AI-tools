@@ -1,0 +1,33 @@
+name: Quizlet for Schools
+website: https://quizlet.com
+slug: quizlet-for-schools
+
+category:
+  l1: learning-education
+  l2: course-study-aids
+
+discount:
+  summary: School-wide Quizlet Plus subscription at discounted group rates for administrators (includes AI tools Q-Chat and Magic Notes).
+  details: >
+    Quizlet for Schools lets administrators purchase Plus for teachers and/or students in bulk
+    with higher discounts than individual teacher-only or student-only purchases. Includes premium
+    study modes (Learn, Test), Quizlet Live, and AI-powered Q-Chat and Magic Notes. Pricing is
+    quote-based on the marketing page—no public percentage published.
+
+how_to_apply: |
+  1. Review https://quizlet.com/features/quizletforschools
+  2. Contact Quizlet via the page flow for a school-wide quote (administrators).
+  3. Choose student-only, teacher-only, or combined Plus deployment per school needs.
+  4. For individual Plus without a school contract, use standard quizlet.com pricing (not this program).
+
+regional_restrictions:
+  notes: Institutional purchase; terms and availability determined at quote. Help Center linked from marketing page for support.
+
+source_url: https://quizlet.com/features/quizletforschools
+verified_at: 2026-05-17
+status: active
+
+eligibility: School administrators purchasing for accredited institutions; not an individual self-serve student discount.
+proof_required: Institutional sales process; administrator role.
+offer_type: other
+notes: Maintainer note — institutional (🏫) program. Individual students without a school purchase use standard Plus pricing.

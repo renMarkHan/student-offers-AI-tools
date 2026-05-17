@@ -1,0 +1,38 @@
+name: Otter.ai
+website: https://otter.ai
+slug: otter-ai
+
+category:
+  l1: communication-meetings
+  l2: meeting-assistants
+
+discount:
+  summary: 20% off Otter Pro monthly or annual for students and teachers with a .edu email.
+  details: >
+    Discounted prices listed on Otter pricing FAQ (USD): Pro Annual $6.67/month billed
+    $79.99 annually; Pro Monthly $13.59/month. Applies only to the Pro individual plan;
+    Workspace features excluded. Non-.edu domains may contact Otter Support with
+    accreditation proof. Separate Otter for Education licenses for whole schools at otter.ai/edu.
+
+how_to_apply: |
+  1. Sign up for Otter Basic at https://otter.ai/signup using your school .edu email (or update email in Account Settings).
+  2. Sign in and open Upgrade plan (profile menu or https://otter.ai/setting/plan).
+  3. Click "Student & Teacher Discount" below the Pro plan description.
+  4. Complete checkout with a credit card; cancel existing paid plan first if upgrading.
+
+regional_restrictions:
+  notes: >
+    Eligible: students, faculty, and full-time staff at accredited primary/secondary/tertiary
+    institutions, nonprofit educational institutions, and qualifying school districts.
+    Affiliated hospitals and government education offices are ineligible per help article.
+
+source_url: https://otter.ai/pricing
+verified_at: 2026-05-17
+status: active
+
+eligibility: Individual students, faculty, and full-time staff at qualifying educational institutions.
+proof_required: School email (.edu preferred); alternative documentation via Otter Support if domain is not .edu.
+offer_type: percent_off
+notes: >
+  Reality-check 2026-05-17: 20% and discounted prices on otter.ai/pricing FAQ; help article
+  https://help.otter.ai/hc/en-us/articles/4402467517847 covers eligibility and checkout steps.

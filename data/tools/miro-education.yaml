@@ -1,0 +1,37 @@
+name: Miro Education
+website: https://miro.com
+slug: miro-education
+
+category:
+  l1: presentation-documents
+  l2: diagrams-whiteboards
+
+discount:
+  summary: Free Miro Education plan for eligible students and educators; limited Miro AI (5 Flow runs per member, limited Sidekicks).
+  details: >
+    Education plan is free for staff and students at qualifying accredited institutions.
+    Educators: plan valid indefinitely with up to 100 team members. Students: plan valid
+    two years (renewable with proof of continued enrollment), up to 10 team members.
+    Includes limited Miro AI Workflows vs Business; full AI Workflows require Business upgrade.
+    One Education team per email; one Team Admin; no email support on Education plan.
+
+how_to_apply: |
+  1. Review eligibility at https://help.miro.com/hc/en-us/articles/360017730473-Education-plan
+  2. Submit the application at https://miro.com/education
+  3. Provide educational email (*.edu, *.k12, or public institution domain) or affiliation proof.
+  4. Attach documentation (school ID, or school web page showing your role).
+  5. Wait for Miro review (up to ~10 days); accept team invitation on your dashboard.
+
+regional_restrictions:
+  notes: >
+    Accredited institutions outside the US qualify if accredited by an authorized governmental
+    agency in the country of residence. Individuals cannot apply—must be through an educational
+    institution’s student/educator status. Anti-discrimination attestation required per program terms.
+
+source_url: https://help.miro.com/hc/en-us/articles/360017730473-Education-plan
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students, teachers, and staff at qualifying accredited educational institutions; not for individual non-affiliated users or NPOs (separate program).
+proof_required: Educational email or proof of affiliation; application review by Miro.
+offer_type: free_tier

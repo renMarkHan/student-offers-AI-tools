@@ -1,0 +1,31 @@
+name: Fathom
+website: https://fathom.video
+slug: fathom
+
+category:
+  l1: communication-meetings
+  l2: meeting-assistants
+
+discount:
+  summary: No official individual student or education discount program found at verification time.
+  details: >
+    Fathom offers a free tier and paid Premium for individuals (help center documents plan
+    differences). No student, .edu, or education verification flow with published discount
+    rates was found on fathom.video or help.fathom.video pages checked.
+
+how_to_apply: |
+  1. Review https://fathom.video/ and help articles for Free vs Premium.
+  2. Use the free individual tier or standard Premium subscription.
+  3. Do not list student discount percentages unless Fathom publishes an official education page.
+
+regional_restrictions:
+  notes: Unknown until an official student program is documented.
+
+source_url: https://help.fathom.video/en/articles/5290881
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Generous free tier exists but is not labeled a student program.

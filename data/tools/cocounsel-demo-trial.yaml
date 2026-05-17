@@ -1,0 +1,34 @@
+name: CoCounsel (Casetext demo trial)
+website: https://legal.thomsonreuters.com
+slug: cocounsel-demo-trial
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: Former Casetext-hosted CoCounsel demo trial page is discontinued; no current public student trial terms verified on that URL.
+  details: >
+    Research candidates referenced https://casetext.com/demo-cocounsel-trial/ for a limited free
+    trial with a “Law Students” option. At verification time the URL returns a discontinuation
+    message directing users to Westlaw and CoCounsel on Thomson Reuters. Law student access is
+    documented through Thomson Reuters Law Schools instead—see cocounsel-law-school.yaml.
+
+how_to_apply: |
+  1. Do not use the discontinued Casetext demo URL.
+  2. Use law school Westlaw/CoCounsel provisioning per https://lawschool.thomsonreuters.com/
+  3. Re-verify any new Thomson Reuters self-serve student trial page before marking active.
+
+regional_restrictions:
+  notes: Unknown for discontinued Casetext flow.
+
+source_url: https://casetext.com/demo-cocounsel-trial/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for former Casetext demo; use law school subscription path if enrolled.
+proof_required: Unknown.
+offer_type: other
+related_tools:
+  - cocounsel-law-school
+notes: Maintainer flag — needs-verification. Source URL shows service no longer available; redirect to Thomson Reuters law school access.

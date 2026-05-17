@@ -1,0 +1,38 @@
+name: Google Colab (Higher Education)
+website: https://colab.research.google.com
+slug: google-colab-education
+
+category:
+  l1: cloud-api-credits
+  l2: gpu-compute
+
+discount:
+  summary: Colab Pro for Education (free 1-year Pro for U.S. higher-ed students/faculty) is not accepting new signups at verification time.
+  details: >
+    Google announced limited free 1-year Colab Pro subscriptions for verified U.S. higher-ed
+    students and faculty (July 2025 blog). Official Colab FAQ now states Colab Pro for Education
+    subscriptions are no longer available for new signups; previously verified users keep access
+    until the 1-year term unless they subscribe to paid personal Colab Pro (which permanently
+    replaces the education subscription). Verification used SheerID via colab.research.google.com/signup.
+
+how_to_apply: |
+  1. Read https://research.google.com/colaboratory/faq.html (Colab Pro for Education section).
+  2. If new signups reopen, use https://colab.research.google.com/signup (“No cost to students and educators”).
+  3. Do not list active availability until Google updates the FAQ.
+
+regional_restrictions:
+  countries: [US]
+  notes: >
+    Program when active was limited to faculty and students at U.S.-based higher education
+    institutions per Google blog and FAQ. SheerID verification is product-specific (not transferable from other Google offers).
+
+source_url: https://research.google.com/colaboratory/faq.html
+verified_at: 2026-05-17
+status: expired
+
+eligibility: Was U.S. higher-ed students and faculty when program accepted signups; closed to new applicants at verification.
+proof_required: Was SheerID verification tied to the Colab account used at signup.
+offer_type: free_tier
+notes: >
+  Announcement: https://blog.google/products-and-platforms/products/education/colab-higher-education/
+  Maintainer flag — needs-verification if program reopens; check FAQ before marking active.

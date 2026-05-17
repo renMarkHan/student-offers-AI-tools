@@ -1,0 +1,41 @@
+name: Google Gemini (Students)
+website: https://gemini.google
+slug: google-gemini-students
+
+category:
+  l1: translation-language
+  l2: machine-translation
+
+discount:
+  summary: No active student-specific subscription offer documented on the official students page at verification time.
+  details: >
+    gemini.google/students describes study features (quizzes, step-by-step help, career prep)
+    but FAQ states the previous student offer ended on March 11, 2026 and is no longer
+    available in the user’s region. Page directs users to free Gemini or paid subscriptions at
+    gemini.google/subscriptions without publishing a current student discount rate or trial length.
+    Gemini in Docs/Slides for students would require a separate documented Google Workspace
+    education offer—not verified as a standalone discount on this page.
+
+how_to_apply: |
+  1. Read https://gemini.google/students and regional FAQ.
+  2. Use https://gemini.google.com for the free tier or review https://gemini.google/subscriptions/
+  3. Check Google Workspace for Education or Google One student programs separately if needed.
+  4. Do not list Google AI Pro student trial pricing unless an official page shows current terms.
+
+regional_restrictions:
+  notes: >
+    Previous student offer removal is described as regional (March 11, 2026). Google AI Pro
+    features require compatible account, internet, and select countries; users 18+ per FAQ snippet.
+
+source_url: https://gemini.google/students
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for current student-specific offer.
+proof_required: Unknown.
+offer_type: other
+related_tools:
+  - google-ai-pro-students
+notes: >
+  Maintainer flag — needs-verification for gemini.google/students standalone offer.
+  Active U.S. Google AI Pro student trial documented separately in google-ai-pro-students.yaml (Google One offer terms).

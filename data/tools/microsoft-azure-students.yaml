@@ -1,0 +1,41 @@
+name: Microsoft Azure for Students
+website: https://azure.microsoft.com
+slug: microsoft-azure-students
+
+category:
+  l1: cloud-api-credits
+  l2: hosting-deploy
+
+discount:
+  summary: Free Azure for Students with $100 credit for 12 months (no credit card); renew yearly while enrolled.
+  details: >
+    Includes $100 credit toward most Azure services within 12 months, plus free monthly amounts
+    of 20+ popular services for 12 months (new Azure customers) and 65+ always-free services.
+    Access to Azure OpenAI and other AI/ML services within credit and free-tier limits. Available
+    to full-time university students per official page; sign up with school email. One account per
+    person. Also available via GitHub Student Developer Pack for ages 13–17 with a different benefit set.
+
+how_to_apply: |
+  1. Visit https://azure.microsoft.com/en-us/free/students/
+  2. Click Start free and sign in with your school email.
+  3. Complete student verification and create your Azure for Students subscription.
+  4. Download developer tools from Azure Education Hub if needed.
+  5. Renew annually while you remain an eligible student.
+
+regional_restrictions:
+  notes: >
+    Offer page is U.S. English URL; Azure student eligibility typically requires full-time university
+    enrollment and valid academic email. Confirm regional signup rules on the localized azure.com page for your country.
+
+source_url: https://azure.microsoft.com/en-us/free/students/
+verified_at: 2026-05-17
+status: active
+
+eligibility: Full-time university students (per page); separate Azure for Students Starter for ages 13–17 via GitHub Education.
+proof_required: School email and student status verification at signup; annual renewal.
+offer_type: credits
+related_tools:
+  - github-student-developer-pack
+  - github-copilot-student
+tags:
+  - data-analytics

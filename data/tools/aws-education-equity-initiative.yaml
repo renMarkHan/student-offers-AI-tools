@@ -1,0 +1,37 @@
+name: AWS Education Equity Initiative
+website: https://aws.amazon.com
+slug: aws-education-equity-initiative
+
+category:
+  l1: cloud-api-credits
+  l2: gpu-compute
+
+discount:
+  summary: Up to $10,000 USD in AWS credits per application for eligible edtech/nonprofit/government organizations building digital learning for underserved learners—not individual student signup.
+  details: >
+    AWS commits up to $100 million in cloud technology over five years to organizations that
+    create digital learning solutions for underserved communities. New-to-AWS applicants may
+    request up to $10,000 USD in AWS social impact credits via the official application;
+    existing AWS customers should contact their Account Manager. Includes technical advising
+    (guidance/demos, not solution build-out). Rolling review with response typically within
+    about three weeks.
+
+how_to_apply: |
+  1. Read https://aws.amazon.com/about-aws/our-impact/education-equity-initiative/
+  2. Confirm your organization type qualifies (edtech, startup, nonprofit, government, CSR team, etc.).
+  3. Submit the application at https://pulse.amazon/application/9XSD9BPP?source=education (if no Account Manager).
+  4. Complete milestone surveys if awarded credits.
+
+regional_restrictions:
+  notes: Global underserved-learner focus; organization eligibility and credit amounts per AWS program FAQs.
+
+source_url: https://aws.amazon.com/about-aws/our-impact/education-equity-initiative/
+verified_at: 2026-05-17
+status: active
+
+eligibility: Organizations building digital learning for underserved learners—not individual students.
+proof_required: Application review; organizational eligibility and impact description.
+offer_type: credits
+related_tools:
+  - aws-educate
+notes: Institutional (🏫) program. Individual students should use AWS Educate or course-specific AWS credits from their school.

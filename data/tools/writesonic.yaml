@@ -1,0 +1,30 @@
+name: Writesonic
+website: https://writesonic.com
+slug: writesonic
+
+category:
+  l1: writing-text
+  l2: marketing-copy
+
+discount:
+  summary: Up to 30% off any Writesonic plan for eligible students.
+  details: >
+    Discount is applied after manual review. Send current school enrollment documentation from
+    your academic email address; Writesonic support will provide next steps and a discount code.
+    Help article last updated July 17, 2023—confirm current terms with support if needed.
+
+how_to_apply: |
+  1. Email proof of current enrollment from your academic email to support@writesonic.com
+  2. Include documentation such as student ID or transcript as requested.
+  3. Follow support instructions to receive and apply your discount code at checkout.
+
+regional_restrictions:
+  notes: Not specified in official help article; confirm with Writesonic support.
+
+source_url: https://help.writesonic.com/article/14-do-you-offer-a-discount-for-students
+verified_at: 2026-05-17
+status: active
+
+eligibility: Active students with verifiable enrollment documentation.
+proof_required: Enrollment documentation from academic email; manual verification by support.
+offer_type: percent_off

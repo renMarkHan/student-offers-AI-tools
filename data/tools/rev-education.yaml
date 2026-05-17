@@ -1,0 +1,32 @@
+name: Rev (Education)
+website: https://www.rev.com
+slug: rev-education
+
+category:
+  l1: audio-voice
+  l2: speech-to-text
+
+discount:
+  summary: Education solutions page describes academic transcription use cases; no public student discount rate listed.
+  details: >
+    rev.com/solutions/education covers accessibility (captions/subtitles), study workflows,
+    ESL support, and research transcription. It does not publish a student or campus
+    pricing SKU with a fixed discount percentage. Volume or institutional pricing may
+    require contacting Rev sales.
+
+how_to_apply: |
+  1. Review https://www.rev.com/solutions/education for product fit.
+  2. For pay-per-use transcription, use standard Rev services at https://www.rev.com/services
+  3. Contact Rev sales or support for institutional or volume academic pricing if needed.
+
+regional_restrictions:
+  notes: Standard Rev service terms apply; HIPAA mentioned for enterprise education contexts.
+
+source_url: https://www.rev.com/solutions/education
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Educators and students as end users of Rev services; no verified individual student discount program.
+proof_required: None documented for a student discount; institutional sales process unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Marketing/education page only—not a documented student discount offer.

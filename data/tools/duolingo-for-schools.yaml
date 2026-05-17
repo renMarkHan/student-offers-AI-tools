@@ -1,0 +1,38 @@
+name: Duolingo for Schools
+website: https://www.duolingo.com
+slug: duolingo-for-schools
+
+category:
+  l1: learning-education
+  l2: language-learning
+
+discount:
+  summary: Free classroom management layer on top of Duolingo for teachers and students (program sunsetting July 31, 2027).
+  details: >
+    Duolingo for Schools is 100% free per official FAQ. Adds assignments, standards-aligned
+    curriculum (ACTFL/CEFR), and progress insights on top of the consumer Duolingo app.
+    This is not Duolingo Max (paid consumer tier with advanced AI features). Google announced
+    sunset of Duolingo for Schools on July 31, 2027—plan migration before that date.
+
+how_to_apply: |
+  1. Read https://www.duolingo.com/schools and the on-page sunset notice.
+  2. Click Sign Up / Get Started for educators.
+  3. Create a classroom and invite or add existing student Duolingo accounts.
+  4. Assign lessons and monitor progress from the teacher dashboard.
+
+regional_restrictions:
+  notes: Global availability subject to Duolingo service terms; sunset date applies to all users of this program.
+
+source_url: https://www.duolingo.com/schools
+verified_at: 2026-05-17
+status: active
+
+eligibility: Teachers and their students using Duolingo for Schools classrooms.
+proof_required: Teacher account registration; student join via classroom code or account linking.
+offer_type: free_tier
+tags:
+  - language-learning
+notes: >
+  Duolingo Max individual student pricing not documented on duolingo.com/schools.
+  Program end: July 31, 2027 per official schools page banner.
+  Cross-listed from translation-language candidates as language-learning (not machine translation).

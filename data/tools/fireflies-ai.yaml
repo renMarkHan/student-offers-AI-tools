@@ -1,0 +1,32 @@
+name: Fireflies.ai
+website: https://fireflies.ai
+slug: fireflies-ai
+
+category:
+  l1: communication-meetings
+  l2: meeting-assistants
+
+discount:
+  summary: No published individual student or educator discount on official pricing or help pages at verification time.
+  details: >
+    Fireflies offers an Education Skills product page for lecture workflows and Enterprise
+    features for institutions, but pricing FAQ does not list a student discount (unlike
+    Otter's published 20% program). Third-party coupon sites cite student discounts—these
+    are not used as source_url.
+
+how_to_apply: |
+  1. Review https://fireflies.ai/pricing for standard plans.
+  2. For institutional deployment, contact Fireflies sales about Enterprise / education use.
+  3. Do not list a student discount percentage unless Fireflies publishes an official offer page.
+
+regional_restrictions:
+  notes: Unknown until an official student program is documented.
+
+source_url: https://fireflies.ai/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for individual student pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification. Education Skills page is a feature description, not a student discount program.

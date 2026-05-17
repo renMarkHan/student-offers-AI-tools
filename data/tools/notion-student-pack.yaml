@@ -1,0 +1,34 @@
+name: Notion (GitHub Student Developer Pack)
+website: https://www.notion.so
+slug: notion-student-pack
+
+category:
+  l1: productivity-notes
+  l2: note-taking
+
+discount:
+  summary: Notion Education plan (Plus-equivalent) plus additional AI responses via GitHub Student Developer Pack.
+  details: >
+    Official pack listing: everything in the Notion Education plan with additional AI responses
+    compared to the standard education plan obtained through notion.so/help/notion-for-education.
+    Pack path may differ from WHED higher-ed email upgrade—compare both if you need maximum AI quota.
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/education
+  2. Open https://education.github.com/pack and locate Notion.
+  3. Claim and redeem per pack instructions.
+  4. For WHED university email free Plus without pack, see notion-education.yaml instead.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification (age 13+, degree/diploma program).
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education verification; Notion pack redemption.
+offer_type: free_tier
+related_tools:
+  - notion-education
+  - github-copilot-student

@@ -1,0 +1,36 @@
+name: Zoom Workplace for Education
+website: https://zoom.us
+slug: zoom-workplace-education
+
+category:
+  l1: communication-meetings
+  l2: meeting-assistants
+
+discount:
+  summary: Institutional Zoom Workplace for Education plans (School and Campus tiers and Enterprise options) sold via sales—not individual student pricing.
+  details: >
+    Education licensing includes meetings, chat, AI Companion features per plan tier, webinars,
+    phone, rooms, and video management for schools/universities. Published tiers include School
+    and Campus (20+ licenses), School and Campus Plus, and Enterprise Essentials/Plus/Premier
+    with higher minimums for K–12 vs higher ed. Features such as automated captions, recording
+    transcripts, and AI Companion eligibility follow the purchased plan—contact sales for quotes.
+
+how_to_apply: |
+  1. Review https://explore.zoom.us/en/collaboration-tools/solutions/education/
+  2. Compare licensing options (meeting duration, participant caps, cloud recording, AI Companion).
+  3. Submit the contact sales form on the page or talk to a Zoom education specialist.
+  4. IT provisions accounts for faculty, staff, and students per institutional contract.
+
+regional_restrictions:
+  notes: >
+    Pricing and minimum license counts vary by tier and institution type (K–12 vs higher education).
+    Feature matrix on source page marked subject to change (reference date December 2024 on page).
+
+source_url: https://explore.zoom.us/en/collaboration-tools/solutions/education/
+verified_at: 2026-05-17
+status: active
+
+eligibility: Schools, districts, and higher-education institutions purchasing organization-wide licenses.
+proof_required: Institutional sales agreement; not individual .edu self-checkout on public pricing page.
+offer_type: other
+notes: Institutional (🏫) program. zoom.us/pricing/education did not load plan SKUs at verification—sales page used as source.

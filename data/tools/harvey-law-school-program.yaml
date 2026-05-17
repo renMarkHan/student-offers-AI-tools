@@ -1,0 +1,38 @@
+name: Harvey (Law School Alliance)
+website: https://www.harvey.ai
+slug: harvey-law-school-program
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: Harvey platform access for students, faculty, and staff at participating law school partners—not individual self-serve student checkout.
+  details: >
+    Harvey’s law school alliance program embeds its generative AI platform in curricula at partner
+    institutions. Launch collaborators named in Harvey’s blog include Stanford, NYU, Michigan,
+    UCLA, University of Texas, and Notre Dame, with later expansions to additional regions.
+    Students at participating schools receive platform access through the institutional program;
+    other schools may contact lawschools@harvey.ai to inquire about joining.
+
+how_to_apply: |
+  1. Confirm whether your law school is a Harvey alliance partner with your library or IT/administrator.
+  2. If enrolled at a partner school, follow your institution’s provisioning instructions for Harvey access.
+  3. If not a partner, schools may contact lawschools@harvey.ai about the program (per Harvey blog).
+  4. Use https://academy.harvey.ai/ for free training regardless of platform seat status.
+
+regional_restrictions:
+  notes: >
+    Initial U.S. partner schools listed on Harvey blog; program expanded to UK and Australia per
+    subsequent Harvey announcements—confirm eligibility with your institution.
+
+source_url: https://www.harvey.ai/blog/harvey-launches-academic-program-with-law-schools
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students, faculty, and administrators at Harvey law school alliance partner institutions.
+proof_required: Institutional provisioning by participating law school (no public student discount checkout).
+offer_type: other
+related_tools:
+  - harvey-academy
+notes: Partner list evolves; verify current participation with your law school before assuming access.

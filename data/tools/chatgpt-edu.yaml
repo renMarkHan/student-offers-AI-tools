@@ -1,0 +1,32 @@
+name: ChatGPT Edu
+website: https://openai.com/chatgpt/education/
+slug: chatgpt-edu
+
+category:
+  l1: writing-text
+  l2: academic-writing
+
+discount:
+  summary: ChatGPT Edu institutional plan for universities (affordable campus deployment; not individual student self-checkout).
+  details: >
+    Universities purchase ChatGPT Edu so students, faculty, and researchers can use GPT-4o with
+    data analysis, web browsing, custom GPTs, higher message limits than Free, and enterprise
+    security (no training on university data per OpenAI). Individual students without a campus
+    contract use ChatGPT Free/Plus consumer plans separately.
+
+how_to_apply: |
+  1. Check whether your university already provides ChatGPT Edu or ChatGPT Enterprise for education.
+  2. If not, ask your administration to contact OpenAI via https://openai.com/contact-sales/
+  3. Learn more at https://openai.com/index/introducing-chatgpt-edu/ and the Help Center article.
+
+regional_restrictions:
+  notes: Availability and pricing are negotiated per institution; not a global consumer student SKU.
+
+source_url: https://help.openai.com/en/articles/9377311-chatgpt-edu-at-openai
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students, faculty, and staff at participating universities provisioned by their institution.
+proof_required: University-issued account access through institutional deployment.
+offer_type: other
+notes: Institutional product; compare with consumer ChatGPT student promotions separately if any.

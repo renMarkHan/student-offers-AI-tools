@@ -1,0 +1,39 @@
+name: Notion for Education
+website: https://www.notion.so
+slug: notion-education
+
+category:
+  l1: productivity-notes
+  l2: note-taking
+
+discount:
+  summary: Free Notion Plus Plan for individual students and teachers at accredited universities (WHED-listed schools).
+  details: >
+    Education Plus for individuals includes unlimited pages/blocks, file uploads, 30-day page
+    history, and up to 100 guests on a one-member workspace. Notion AI is not bundled the same
+    as Business—see Notion pricing and AI add-on terms (2025 policy changes). K–12 students and
+    educators are not eligible for this higher-ed offer (Free Plan still available). Student orgs
+    can apply separately for unlimited-member Plus workspaces.
+
+how_to_apply: |
+  1. Sign in with your accredited institution email (listed in WHED: https://www.whed.net/home.php)
+  2. Ensure you are on the Free Plan with only one workspace member.
+  3. In Notion desktop or web: Settings → Upgrade plan → Get free education plan.
+  4. If your domain is missing, email Notion support from the help article.
+
+regional_restrictions:
+  notes: >
+    Accredited colleges and universities in WHED only for individual student/teacher plan.
+    Must upgrade on desktop/web, not mobile. Valid educational email required (no student ID substitute).
+
+source_url: https://www.notion.so/help/notion-for-education
+verified_at: 2026-05-17
+status: active
+
+eligibility: Individual students or teachers at accredited higher-ed institutions with institution email in WHED.
+proof_required: Educational institution email on Notion account; automatic domain recognition or support allowlisting.
+offer_type: free_tier
+related_tools:
+  - notion-student-pack
+notes: >
+  GitHub Student Pack may include Notion Education plus extra AI responses—see notion-student-pack.yaml.

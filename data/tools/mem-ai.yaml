@@ -1,0 +1,31 @@
+name: Mem
+website: https://mem.ai
+slug: mem-ai
+
+category:
+  l1: productivity-notes
+  l2: note-taking
+
+discount:
+  summary: No official student or education discount program found on Mem pricing or support pages at verification time.
+  details: >
+    Mem offers a free tier (limited notes/chat) and Mem Pro subscription on public pricing pages.
+    Support/pricing content checked did not document a student, faculty, or .edu discount program.
+    Marketing blog posts target students but are not pricing terms.
+
+how_to_apply: |
+  1. Review https://mem.ai/ or in-app pricing for current plans.
+  2. Use the free tier or standard Pro subscription.
+  3. Do not list education discount amounts unless Mem publishes an official offer page.
+
+regional_restrictions:
+  notes: Unknown until an official student program is documented.
+
+source_url: https://support.mem.ai/article/pricing
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Unknown for student-specific pricing.
+proof_required: Unknown.
+offer_type: other
+notes: Maintainer flag — needs-verification.

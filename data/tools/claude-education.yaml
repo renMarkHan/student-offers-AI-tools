@@ -1,0 +1,32 @@
+name: Claude for Education
+website: https://www.anthropic.com
+slug: claude-education
+
+category:
+  l1: writing-text
+  l2: academic-writing
+
+discount:
+  summary: University-wide Claude plans and Learning Mode via institutional agreements (no published individual student discount).
+  details: >
+    Anthropic's education page describes campus-wide plans for students, faculty, and administrators,
+    including Learning Mode for students and training resources for educators. Pricing and student
+    access are arranged through institutional sales—not a public percent-off or free Pro tier for
+    individual .edu signups. Free Anthropic Academy courses exist separately from product subscriptions.
+
+how_to_apply: |
+  1. Check if your university already has a Claude for Education agreement.
+  2. If not, ask your institution to contact Anthropic at https://claude.com/contact-sales/education-plan
+  3. Review resources at https://www.anthropic.com/education and Anthropic Academy courses.
+
+regional_restrictions:
+  notes: Institutional contracts; service territory limits for Claude may apply per Anthropic terms.
+
+source_url: https://www.anthropic.com/education
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Students, faculty, and staff at universities with an Anthropic education agreement.
+proof_required: Institutional provisioning; no self-serve individual student discount documented on source_url.
+offer_type: other
+notes: Maintainer flag — needs-verification. Official page confirms education program but not individual student pricing or discount terms.

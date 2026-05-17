@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets and local env
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+secrets.*
+
+# Python (if validation scripts are added later)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node (if tooling is added later)
+node_modules/
+
+# Local IDE / agent config (not part of the catalog)
+.cursor/
+
+# Editor (optional personal settings)
+.idea/

@@ -1,0 +1,42 @@
+name: ElevenLabs (Students)
+website: https://elevenlabs.io
+slug: elevenlabs
+
+category:
+  l1: audio-voice
+  l2: text-to-speech
+
+discount:
+  summary: Expanded access to free ElevenLabs plans for students/educators; one year of ElevenReader Ultra free with verified school email.
+  details: >
+    ElevenLabs students hub describes expanded free-plan access for voice AI creation.
+    ElevenReader (https://elevenreader.io/students): “Enjoy full access to ElevenReader
+    Ultra ($99 value)” for one year when students/educators verify with a school-issued
+    .edu or equivalent email. Separate programs: Impact Program for
+    professors (classroom credits), Startup Grants, and hackathon partnerships—each
+    with its own application flow.
+
+how_to_apply: |
+  1. Explore programs at https://elevenlabs.io/students
+  2. For ElevenReader Ultra: visit https://elevenreader.io/students → "Get 1 year free"
+  3. Sign up with a school-issued .edu (or equivalent) email matching your ElevenLabs account.
+  4. Complete student verification (ElevenReader FAQ references verification via the flow on that page).
+  5. For professor Impact Program or startup grants, use the linked program pages on elevenlabs.io/students.
+
+regional_restrictions:
+  notes: >
+    ElevenReader student offer requires age 18+. Eligibility varies by school domain/country;
+    institutions not listed may request access via form on ElevenReader FAQ. After one year,
+    subscription renews at regular price unless cancelled.
+
+source_url: https://elevenlabs.io/students
+verified_at: 2026-05-17
+status: active
+last_checked_at: 2026-05-17
+
+eligibility: Students and educators; ElevenReader Ultra requires enrolled status with valid student/educator email at a listed institution.
+proof_required: School-issued .edu or equivalent email; student verification before discount (per ElevenReader students FAQ).
+offer_type: other
+notes: >
+  ElevenReader Ultra pricing evidence: https://elevenreader.io/students (“$99 value”).
+  Reality-check 2026-05-17: removed $99 from summary; kept on ElevenReader official page only.

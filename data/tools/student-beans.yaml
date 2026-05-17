@@ -1,0 +1,32 @@
+name: Student Beans
+website: https://www.studentbeans.com
+slug: student-beans
+
+category:
+  l1: platforms-bundles
+  l2: marketplaces
+
+discount:
+  summary: Third-party student discount marketplace; partner offers vary—use each vendor’s official student page as source_url, not Student Beans.
+  details: >
+    Student Beans lists student discounts across categories. AI tool benefits (when present) should
+    be confirmed on the vendor’s own education or student pricing page before marking active in this
+    catalog. Research candidates flagged Student Beans alongside UNiDAYS as secondary aggregators.
+
+how_to_apply: |
+  1. Create a Student Beans account at https://www.studentbeans.com/
+  2. Verify student status per Student Beans requirements.
+  3. Search for a brand and follow Student Beans redemption instructions.
+  4. Cross-check discount terms on the vendor’s official website before relying on aggregator copy.
+
+regional_restrictions:
+  notes: Availability and partners vary by country.
+
+source_url: https://www.studentbeans.com/
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Students per Student Beans verification.
+proof_required: Student Beans verification flow.
+offer_type: other
+notes: Maintainer flag — needs-verification per partner offer. Secondary aggregator—not primary source for YAML entries in this repo.

@@ -1,0 +1,35 @@
+name: CARTO (GitHub Student Developer Pack)
+website: https://carto.com
+slug: carto-student-pack
+
+category:
+  l1: data-analytics
+  l2: sql-bi
+
+discount:
+  summary: Free account upgrade for 2 years via GitHub Student Pack (extra storage, real-time data, Location Data Services credits, premium features).
+  details: >
+    Spatial data analysis platform. Official pack listing: free upgrades with increased database
+    storage, real-time data, Location Data Services Credits, and premium features for two years.
+    CARTO help notes student accounts apply to the current platform (legacy docs reference
+    education FAQs at docs.carto.com).
+
+how_to_apply: |
+  1. Apply for GitHub Education student benefits at https://github.com/education
+  2. Open https://education.github.com/pack and locate CARTO.
+  3. Redeem per pack instructions.
+  4. See https://carto.com/help/getting-started/student-accounts and https://docs.carto.com/faqs/categories/carto-for-education/
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification; platform version requirements per CARTO education FAQs.
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students and educators per CARTO education materials; pack redemption requires GitHub Student Developer Pack.
+proof_required: GitHub Education verification; CARTO student account setup per help docs.
+offer_type: free_tier
+related_tools:
+  - github-copilot-student
+notes: Pack terms on education.github.com; setup help at carto.com/help/getting-started/student-accounts

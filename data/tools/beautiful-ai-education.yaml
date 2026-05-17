@@ -1,0 +1,37 @@
+name: Beautiful.ai Education
+website: https://www.beautiful.ai
+slug: beautiful-ai-education
+
+category:
+  l1: presentation-documents
+  l2: slides
+
+discount:
+  summary: Free annual Beautiful.ai Pro for verified students with a .edu email (new student subscribers; 12 months from activation).
+  details: >
+    Education page states verified students receive one year of Pro at no cost, including
+    Smart Slides and AI-assisted deck creation per current Pro feature set. Offer is for
+    new student subscribers only. Blog post describes .edu verification followed by a
+    confirmation email with a custom coupon code for checkout.
+
+how_to_apply: |
+  1. Read terms on https://www.beautiful.ai/education
+  2. Open https://www.beautiful.ai/checkout-edu (Claim student offer / Claim .edu offer).
+  3. Verify your .edu (or equivalent student) email when prompted.
+  4. Apply the coupon code from Beautiful.ai’s confirmation email at checkout if required.
+
+regional_restrictions:
+  notes: >
+    Offer wording on the education page targets students with .edu email verification.
+    Confirm regional eligibility at checkout if your institution uses a non-.edu domain.
+
+source_url: https://www.beautiful.ai/education
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students with a verified .edu email address; new student subscribers only.
+proof_required: .edu (or equivalent) student email verification.
+offer_type: free_tier
+notes: >
+  Coupon email flow described at
+  https://www.beautiful.ai/blog/introducing-the-beautiful-ai-education-plan

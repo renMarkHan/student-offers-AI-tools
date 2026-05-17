@@ -1,0 +1,42 @@
+name: Lexis+ AI (Law Schools)
+website: https://www.lexisnexis.com
+slug: lexis-plus-ai-law-schools
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: Lexis+ AI access for students at ABA-accredited U.S. law schools via law-school educational ID (institutional rollout, not consumer checkout).
+  details: >
+    LexisNexis expanded U.S. law school access to Lexis+ AI for students at American Bar Association
+    (ABA) accredited law schools per official announcements. Access is provisioned through the
+    LexisNexis legal education ID associated with your law school—not a public student discount
+  percentage on a pricing page. Educational ID use is limited to academic purposes; Summer Access
+    (May–August) expands permitted uses for internships and clerkships per LexisNexis policy.
+
+how_to_apply: |
+  1. Obtain a registration code from your law school librarian, Lexis Account Representative, or Lexis Associate.
+  2. Register at https://register.lexisnexis.com (see LexisNexis support article HT5669).
+  3. Select Student role and complete security profile setup.
+  4. Sign in to the Law School Home Page on Lexis+ with your assigned educational ID.
+  5. Follow academic-use rules on the educational ID policy page (commercial use restricted outside Summer Access).
+
+regional_restrictions:
+  countries: [US]
+  notes: >
+    Rollout described for ABA-accredited U.S. law schools. Eligibility requires enrollment in JD,
+    LLM, or paralegal programs—or approved pre-law/graduate programs sponsored by the law school.
+
+source_url: https://www.lexisnexis.com/community/pressroom/b/news/posts/lexisnexis-collaborates-with-u-s-law-schools-to-roll-out-lexis-ai-marking-first-widespread-use-of-legal-generative-ai-solution-in-law-school-education
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  Students enrolled in JD, LLM, or paralegal programs at LexisNexis-participating law schools, or
+  approved pre-law/graduate programs per educational ID policy.
+proof_required: Law school registration code and LexisNexis legal education ID assignment via institution.
+offer_type: free_tier
+notes: >
+  Educational ID policy (use restrictions): https://www.lexisnexis.com/en-us/terms/educational.page
+  Reality-check 2026-05-17: moved source_url to press release; removed “free” from summary (not stated on official pages).

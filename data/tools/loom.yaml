@@ -1,0 +1,36 @@
+name: Loom
+website: https://www.loom.com
+slug: loom
+
+category:
+  l1: video
+  l2: editing
+
+discount:
+  summary: Up to 50% off premium plans for verified academic use, or up to 75% off for classroom use (Atlassian education licensing).
+  details: >
+    Legacy "Free Education Plan" is no longer available to new applicants per Atlassian
+    support. Verified educators and students at accredited institutions may receive
+    discounted Business, Business+AI, or Enterprise tiers. AI-powered editing features
+    require Business+AI or higher. Applications reviewed by Goodstack; institutional
+    email required (personal Gmail/Outlook may be rejected or delayed).
+
+how_to_apply: |
+  1. Sign up for Loom with your official school or university email: https://www.atlassian.com/try/cloud/signup?bundle=loom
+  2. Submit the Atlassian classroom license request form (linked from source_url).
+  3. Provide educator or student status details; wait for Goodstack verification email (typically a few business days).
+  4. If approved, purchase or upgrade to the discounted premium plan tier indicated in your approval.
+
+regional_restrictions:
+  notes: >
+    Must be affiliated with an accredited primary, secondary, or tertiary institution.
+    Must be at least 16 years old. Discount rates (50% vs 75%) depend on general academic
+    vs classroom use as determined by Atlassian/Goodstack.
+
+source_url: https://support.loom.com/hc/en-us/articles/360006579637-Loom-for-Education-Discounted-for-students-and-educators
+verified_at: 2026-05-17
+status: active
+
+eligibility: Teachers, professors, or students at accredited institutions; age 16+.
+proof_required: Official school/university email on Loom account; Goodstack verification via Atlassian classroom license form.
+offer_type: percent_off

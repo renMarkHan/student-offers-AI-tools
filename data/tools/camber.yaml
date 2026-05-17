@@ -1,0 +1,30 @@
+name: Camber
+website: https://www.cambercloud.com
+slug: camber
+
+category:
+  l1: data-analytics
+  l2: notebooks-ml
+
+discount:
+  summary: Free Camber Student plan via GitHub Student Developer Pack (200 CPU hours, 75GB storage, 200 LLM messages/month).
+  details: >
+    AI-powered cloud platform for scientific computing, simulations, and data analysis.
+    Offer on the Student Developer Pack (May 2026): free Student plan with quotas above while
+    you remain a pack member. Additional student benefits may be listed on the pack card.
+
+how_to_apply: |
+  1. Apply for GitHub Education / Student Developer Pack at https://github.com/settings/education/benefits
+  2. After approval, open https://education.github.com/pack and find Camber.
+  3. Redeem the partner offer and follow Camber onboarding instructions.
+
+regional_restrictions:
+  notes: Requires GitHub Education student verification (age 13+, degree/diploma program).
+
+source_url: https://education.github.com/pack
+verified_at: 2026-05-17
+status: active
+
+eligibility: Verified GitHub Student Developer Pack members.
+proof_required: GitHub Education verification; Camber redemption via pack.
+offer_type: free_tier

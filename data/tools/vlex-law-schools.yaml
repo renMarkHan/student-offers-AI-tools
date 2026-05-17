@@ -1,0 +1,33 @@
+name: vLex (Law Schools)
+website: https://vlex.com
+slug: vlex-law-schools
+
+category:
+  l1: legal
+  l2: legal-research
+
+discount:
+  summary: University and law-school subscriptions with Vincent AI; no public individual student discount or checkout terms on the law-school marketing page.
+  details: >
+    vLex markets institutional law-school packages (Vincent AI, vLex Library, Docket Alarm) with
+    “Book a demo” and “Start a free trial” CTAs for schools—not a published per-student price or
+    self-serve education discount. Students at subscribing institutions typically sign in via
+    Shibboleth, OpenAthens, campus IP, or proxy per vLex Library support documentation.
+
+how_to_apply: |
+  1. Ask your law library whether the school subscribes to vLex or vLex Library.
+  2. If subscribed, sign in using institutional SSO, campus network, or library proxy instructions.
+  3. For institutional trials or procurement, use https://us.vlex.com/law-schools (demo/trial for the school).
+  4. Do not list student discount percentages unless vLex publishes an official individual student offer page.
+
+regional_restrictions:
+  notes: Global content coverage; institutional contracts and sign-in methods vary by school and region.
+
+source_url: https://us.vlex.com/law-schools
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: Law students at institutions with an active vLex subscription (access method set by the library).
+proof_required: Institutional authentication or library-assigned credentials.
+offer_type: other
+notes: Maintainer flag — needs-verification for individual self-serve student pricing. Institutional sales page only at verification time.

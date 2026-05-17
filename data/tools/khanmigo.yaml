@@ -1,0 +1,48 @@
+name: Khanmigo
+website: https://www.khanmigo.ai
+slug: khanmigo
+
+category:
+  l1: learning-education
+  l2: tutoring-explanation
+
+discount:
+  summary: Free for teachers; learners and parents pay $4/month or $44/year (tax extra); district plans via sales.
+  details: >
+    Teachers get Khanmigo teaching assistant tools at no cost (sign up via Khan Academy).
+    Individual learners and parents pay published consumer pricing on khanmigo.ai/pricing.
+    Classroom student access for Khanmigo is not available via teacher accounts—only through
+    school or district implementations (Khanmigo District Tools). Under-18 learners need a
+    parent to subscribe and can enable access for up to 10 connected child accounts per
+    Khan Academy help articles.
+
+how_to_apply: |
+  Teachers (free):
+  1. Visit https://www.khanmigo.ai/pricing or https://khanacademy.org/khanmigo/teacher-tools
+  2. Sign up for free with your teacher account.
+
+  Learners / parents (paid):
+  1. Go to https://www.khanmigo.ai/pricing
+  2. Choose monthly ($4/month) or annual ($44/year) plan.
+  3. Complete payment (U.S. billing address required per Khan Academy FAQ).
+  4. Parents may enable Khanmigo for connected child accounts under 18 from parent settings.
+
+  Districts:
+  1. Request pricing at https://districts.khanacademy.org/khanmigo
+
+regional_restrictions:
+  notes: >
+    Khan Academy FAQ: Khanmigo access requires age 18+ to subscribe, U.S. residency, and a
+    U.S. billing address (parents sign up for minors). Sales tax not included in listed prices.
+    Teachers worldwide may use free teacher tools per signup flow—confirm current country list on site.
+
+source_url: https://www.khanmigo.ai/pricing
+verified_at: 2026-05-17
+status: active
+
+eligibility: Teachers (free); learners/parents (paid individual plan); district students via institutional contract only.
+proof_required: Payment method for paid plans; teacher account for free tier; district agreement for school-wide access.
+offer_type: other
+notes: >
+  Eligibility and U.S. payment rules: https://www.khanacademy.org/khanmigo FAQ section.
+  Child access: https://support.khanacademy.org/hc/en-us/articles/14394695651597

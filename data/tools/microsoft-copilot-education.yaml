@@ -1,0 +1,42 @@
+name: Microsoft 365 Copilot in Education
+website: https://www.microsoft.com/education
+slug: microsoft-copilot-education
+
+category:
+  l1: communication-meetings
+  l2: team-chat
+
+discount:
+  summary: Copilot Chat included at no extra cost with Microsoft 365 A1/A3/A5 school accounts; Microsoft 365 Copilot add-on priced at $18 USD/user/month (academic).
+  details: >
+    Institutional education offering—not individual consumer student checkout. Copilot Chat
+    (secure AI chat with GPT-5, file upload, agents) is available at no additional cost when
+    signed in with a school/work account on qualifying Microsoft 365 Education licenses (A1, A3,
+    A5). Available to faculty, staff, and higher-education students aged 13+ per FAQ. Full
+    Microsoft 365 Copilot in apps requires purchasing the Copilot add-on (listed academic price
+    $18/user/month on page, October 2025 reference). K–12 and higher-ed rollout via IT admins.
+
+how_to_apply: |
+  1. Review https://www.microsoft.com/en-us/education/products/copilot-in-education
+  2. Students/faculty: use Copilot Chat through your institution’s Microsoft 365 school account if enabled.
+  3. IT administrators: assign Microsoft 365 Education licenses and Copilot add-ons per Microsoft documentation linked from the page.
+  4. For personal college trials with Copilot in desktop apps, see microsoft-365-college-students.yaml.
+
+regional_restrictions:
+  notes: >
+    Copilot Chat availability and Microsoft 365 Copilot licensing vary by tenant and country.
+    Academic SKU pricing shown in USD on U.S. page; regional prices may differ.
+
+source_url: https://www.microsoft.com/en-us/education/products/copilot-in-education
+verified_at: 2026-05-17
+status: active
+
+eligibility: Users on qualifying Microsoft 365 Education tenants; Copilot Chat for faculty, staff, and higher-ed students 13+; full Copilot requires institutional license purchase.
+proof_required: School-issued Microsoft 365 account; institutional IT provisioning for add-on licenses.
+offer_type: other
+notes: >
+  Institutional (🏫) program for Microsoft Teams and M365 apps. Copilot Chat vs paid Microsoft 365
+  Copilot add-on documented in on-page FAQ. Also listed under productivity-notes for college trials
+  (see microsoft-365-college-students.yaml).
+tags:
+  - meeting-assistants

@@ -1,0 +1,32 @@
+name: AssemblyAI
+website: https://www.assemblyai.com
+slug: assemblyai
+
+category:
+  l1: audio-voice
+  l2: speech-to-text
+
+discount:
+  summary: No dedicated student discount program found; new accounts receive standard free-tier API credits (not education-specific).
+  details: >
+    AssemblyAI documentation describes a free tier with starter API credits for all new
+    developers. Blog content covers lecture transcription use cases but does not document
+    an education or student credit program with separate eligibility. Contact sales for
+    volume or institutional arrangements.
+
+how_to_apply: |
+  1. Sign up for a free AssemblyAI account per https://www.assemblyai.com/docs/faq/can-i-sign-up-for-free
+  2. Use API credits under standard free-tier terms until exhausted.
+  3. For institutional or research volume, contact AssemblyAI via official site—do not assume student-only credits.
+
+regional_restrictions:
+  notes: API availability subject to AssemblyAI supported regions and account policies.
+
+source_url: https://www.assemblyai.com/docs/faq/can-i-sign-up-for-free
+verified_at: 2026-05-17
+status: unverified
+
+eligibility: General developer free tier only; no verified student-only eligibility.
+proof_required: Standard account signup; no student verification flow documented.
+offer_type: other
+notes: Maintainer flag — needs-verification. Free credits are not marketed as a student/education offer on official docs.

@@ -1,0 +1,32 @@
+name: Windsurf
+website: https://windsurf.com
+slug: windsurf
+
+category:
+  l1: coding-development
+  l2: code-assistants
+
+discount:
+  summary: Over 50% off Windsurf Pro when signing up with a school .edu email.
+  details: >
+    Official students page states "over 50% off" on a Pro subscription with .edu signup.
+    Exact post-discount price is not listed on the landing page—confirm at checkout.
+    Separate AI Fellows campus program and hackathon sponsorship applications available
+    on the same site (not the same as the self-serve student discount).
+
+how_to_apply: |
+  1. Go to https://windsurf.com/students
+  2. Click "Sign up with school email" and register with your .edu address.
+  3. Complete checkout for Windsurf Pro and confirm the student discount is applied.
+  4. If your school does not use .edu emails, contact Codeium per their FAQ on that page.
+
+regional_restrictions:
+  notes: .edu email emphasized on official page; non-.edu schools may require contacting Codeium.
+
+source_url: https://windsurf.com/students
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students with a school-issued .edu email (per official signup flow).
+proof_required: .edu email registration.
+offer_type: percent_off

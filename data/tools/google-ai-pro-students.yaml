@@ -1,0 +1,42 @@
+name: Google AI Pro for Students
+website: https://one.google.com
+slug: google-ai-pro-students
+
+category:
+  l1: platforms-bundles
+  l2: student-programs
+
+discount:
+  summary: 12 months of Google AI Pro at no charge for eligible U.S. students (SheerID verification; redeem by April 30, 2026).
+  details: >
+    Google One Student Offer (Google AI Pro) provides subscription benefits at no charge for
+    12 months from redemption. Includes Gemini app in Pro, NotebookLM in Pro, Gemini in Gmail/Docs,
+    and expanded Google One storage per current plan benefits. Requires subscription through
+    Google Play Store with a valid payment method on file; auto-bills standard monthly price after
+    the offer period unless canceled. Not available on school-issued Google Workspace for Education accounts.
+
+how_to_apply: |
+  1. Read https://one.google.com/offer/studentoffer6 and https://one.google.com/about/articles/google-ai-for-students/
+  2. Start the Google AI Pro student offer purchase flow via Google Play Store (per offer terms).
+  3. Verify student status with SheerID when prompted (18+).
+  4. Cancel before the 12-month offer period ends if you do not want paid renewal.
+
+regional_restrictions:
+  countries: [US]
+  notes: >
+    Offer terms require U.S. residency and age 18+. Must redeem by April 30, 2026. Ineligible if
+    you have certain existing Google One subscriptions, family sharing, Pixel bundle promos, or
+    supervised accounts per offer terms.
+
+source_url: https://one.google.com/offer/studentoffer6
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  U.S. residents 18+ enrolled at eligible higher education institutions; personal Google Account;
+  no conflicting Google One subscription per offer terms.
+proof_required: SheerID student verification; Google Payments payment method on file.
+offer_type: free_tier
+related_tools:
+  - google-gemini-students
+notes: Distinct from gemini.google/students marketing page—this is the Google One / Play Store student offer with published terms.

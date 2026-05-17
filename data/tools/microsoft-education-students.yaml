@@ -1,0 +1,54 @@
+name: Microsoft Education (Students)
+website: https://www.microsoft.com
+slug: microsoft-education-students
+
+category:
+  l1: platforms-bundles
+  l2: student-programs
+
+discount:
+  summary: Student pathways include Azure for Students ($100 credit / 12 months), Azure for Students Starter (ages 13–17), free Microsoft Learn training, and software via Azure Education Hub.
+  details: >
+    Microsoft documents multiple student offers in the Azure Education Hub FAQ rather than a single
+    checkout page. Azure for Students: $100 credit for 12 months, no credit card, full-time students
+    at accredited degree-granting institutions, annual renewal. Azure for Students Starter: free tier
+    of select services for verified students age 13+ (U.S.) or 16+ (other regions), often via GitHub
+    Student Developer Pack for ages 13–17. Includes download of Visual Studio, SQL Server Developer,
+    and related tools through the Education Hub while subscription is active. GitHub Copilot Student
+    is a separate GitHub program—see github-copilot-student.yaml.
+
+how_to_apply: |
+  Azure for Students (18+ university):
+  1. Visit https://azure.microsoft.com/en-us/free/students/
+  2. Sign up with school email and complete student verification.
+  3. Download tools from Azure Education Hub in the Azure portal.
+
+  Azure for Students Starter (13–17):
+  1. Read https://learn.microsoft.com/en-us/azure/education-hub/about-azure-for-students and Azure for Students Starter docs on learn.microsoft.com.
+  2. Verify via school email or Shibboleth; also available through GitHub Student Developer Pack.
+
+  Microsoft Learn:
+  1. Use free training at https://learn.microsoft.com/training/ (no separate student SKU required).
+
+regional_restrictions:
+  notes: >
+    Azure for Students eligibility and age rules vary by program; MOOC/for-profit training excluded
+    per Microsoft FAQ. Confirm localized azure.com pages for your country.
+
+source_url: https://learn.microsoft.com/en-us/azure/education-hub/about-azure-for-students
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  Full-time students at accredited degree-granting institutions (Azure for Students); younger students
+  for Starter per age rules; separate faculty/institution programs for Azure Dev Tools for Teaching.
+proof_required: Organizational (.edu) email verification or Shibboleth; GitHub Education for Starter via pack.
+offer_type: credits
+related_tools:
+  - microsoft-azure-students
+  - github-student-developer-pack
+  - github-copilot-student
+notes: >
+  Reality-check 2026-05-17: prior azure-education-hub-faq URL returned 404; source_url now points to
+  about-azure-for-students. Starter (ages 13–17) details: confirm on current Learn/Azure pages.
+  Copilot in Education for schools is institutional (microsoft-copilot-education.yaml).

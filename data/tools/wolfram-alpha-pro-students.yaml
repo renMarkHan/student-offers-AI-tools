@@ -1,0 +1,39 @@
+name: Wolfram|Alpha Pro (Students)
+website: https://www.wolframalpha.com
+slug: wolfram-alpha-pro-students
+
+category:
+  l1: research-academia
+  l2: literature-search
+
+discount:
+  summary: Student Pro at $5.00/month billed $60/year; Student Pro Premium at $8.25/month billed $99/year (US pricing on official page).
+  details: >
+    Listed non-student reference prices on the same page: Pro $9.99/mo ($60/year) and Pro Premium
+    $12.00/mo ($99/year)—student tiers show reduced annual billing amounts. Includes step-by-step
+    solutions, practice problems, guided calculators, extended computation time, and file uploads.
+    Proof of student status required at purchase per Wolfram support.
+
+how_to_apply: |
+  1. Review plans at https://www.wolframalpha.com/pro/pricing/students
+  2. Select Pro for Students or Pro Premium for Students.
+  3. Complete purchase and provide proof of student status when requested.
+  4. See eligibility at https://support.wolfram.com/16413
+
+regional_restrictions:
+  notes: >
+    Students must be enrolled at an accredited institution (associate's through doctoral) or
+    approved homeschool; part-time non-degree students eligible if required for a class.
+    Pricing shown in USD on source page—confirm local store if outside US.
+
+source_url: https://www.wolframalpha.com/pro/pricing/students
+verified_at: 2026-05-17
+status: active
+
+eligibility: >
+  Part-time or full-time students at accredited institutions working toward associate, bachelor's,
+  master's, doctoral, or equivalent degree; approved homeschool; qualifying non-degree students.
+proof_required: Proof of student status at time of purchase (per Wolfram support article).
+offer_type: fixed_price
+tags:
+  - tutoring-explanation

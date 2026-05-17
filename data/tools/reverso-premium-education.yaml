@@ -1,0 +1,35 @@
+name: Reverso Premium (Students & Teachers)
+website: https://www.reverso.net
+slug: reverso-premium-education
+
+category:
+  l1: translation-language
+  l2: machine-translation
+
+discount:
+  summary: Students and teachers can obtain a Reverso Premium promo code via the official Documents pricing page (discount rate shown at checkout, not published on the page).
+  details: >
+    Reverso Documents pricing lists “Students and teachers? Get promo code” for Premium and Pro
+    subscriptions. Standard annual Premium is listed at 77.88 EUR/year (6.49 EUR/month equivalent)
+    on the page at verification time—the student/teacher promo reduces price at redemption but
+    the help text does not state a fixed percentage. Includes document translation, long-text
+    translation, and premium apps per plan features.
+
+how_to_apply: |
+  1. Open https://documents.reverso.net/Pricing.aspx?lang=en
+  2. Locate “Students and teachers? Get promo code” on the Premium or Pro plan.
+  3. Follow the promo-code flow to verify student/teacher status and subscribe.
+  4. Apply the code at checkout when prompted.
+
+regional_restrictions:
+  notes: >
+    Pricing page supports EUR, USD, GBP, CHF, CAD display options. VAT rules documented for EU
+    customers on the same page.
+
+source_url: https://documents.reverso.net/Pricing.aspx?lang=en
+verified_at: 2026-05-17
+status: active
+
+eligibility: Students and teachers per Reverso promo-code program on Documents pricing.
+proof_required: Promo code verification via Reverso’s student/teacher flow (exact documents not listed on pricing page).
+offer_type: other
