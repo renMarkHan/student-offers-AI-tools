@@ -1,5 +1,6 @@
 name: DataCamp (Student Premium)
 website: https://www.datacamp.com
+about: Interactive courses for Python, R, SQL, and data science.
 slug: datacamp-student
 
 category:

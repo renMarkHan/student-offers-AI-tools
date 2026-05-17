@@ -35,6 +35,7 @@ One tool per file: `data/tools/<slug>.yaml`. Slug = lowercase kebab-case derived
 | Field | Type | Description |
 |-------|------|-------------|
 | `slug` | string | Filename without `.yaml`; must match file name if present. |
+| `about` | string | 1–200 chars: what the product does (for students browsing—not the discount). |
 | `eligibility` | string | Who qualifies (enrolled student, faculty, alumni, age, institution type). |
 | `proof_required` | string | e.g. SheerID, .edu email, ISIC, enrollment letter. |
 | `offer_type` | enum | `percent_off`, `fixed_price`, `free_tier`, `credits`, `extended_trial`, `other` |

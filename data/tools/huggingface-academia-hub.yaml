@@ -1,5 +1,6 @@
 name: Hugging Face Academia Hub
 website: https://huggingface.co
+about: Team Hub for sharing ML models, datasets, and compute (institutions).
 slug: huggingface-academia-hub
 
 category:

@@ -1,5 +1,6 @@
 name: Consensus
 website: https://consensus.app
+about: AI search over scientific papers with cited summaries.
 slug: consensus
 
 category:

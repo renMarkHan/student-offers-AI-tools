@@ -1,5 +1,6 @@
 name: Cursor
 website: https://cursor.com
+about: AI code editor with chat and inline code generation (VS Code–style).
 slug: cursor
 
 category:

@@ -1,5 +1,6 @@
 name: DigitalOcean (GitHub Student Developer Pack)
 website: https://www.digitalocean.com
+about: Cloud servers (Droplets) and hosting credits for developers.
 slug: digitalocean-student-pack
 
 category:

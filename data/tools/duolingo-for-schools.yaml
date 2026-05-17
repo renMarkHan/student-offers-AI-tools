@@ -1,5 +1,6 @@
 name: Duolingo for Schools
 website: https://www.duolingo.com
+about: Teacher dashboard and classroom tools on top of Duolingo.
 slug: duolingo-for-schools
 
 category:

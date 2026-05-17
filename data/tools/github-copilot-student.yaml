@@ -1,5 +1,6 @@
 name: GitHub Copilot (Student)
 website: https://github.com/features/copilot
+about: AI code suggestions and chat inside your IDE (GitHub).
 slug: github-copilot-student
 
 category:

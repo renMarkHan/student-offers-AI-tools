@@ -42,6 +42,7 @@ Minimum you must get right:
 ```yaml
 name: Product Name          # As on the official site
 website: https://...        # Product homepage (HTTPS)
+about: One sentence on what the product does (not the discount).
 slug: product-slug          # Must match filename
 
 category:

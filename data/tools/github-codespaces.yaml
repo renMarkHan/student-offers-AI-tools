@@ -1,5 +1,6 @@
 name: GitHub Codespaces
 website: https://github.com/features/codespaces
+about: Full dev environments in the browser, launched from GitHub repos.
 slug: github-codespaces
 
 category:

@@ -1,5 +1,6 @@
 name: Appwrite Education
 website: https://appwrite.io
+about: Open-source backend for apps—auth, databases, storage, and serverless functions.
 slug: appwrite-education
 
 category:

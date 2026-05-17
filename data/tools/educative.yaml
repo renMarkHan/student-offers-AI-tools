@@ -1,5 +1,6 @@
 name: Educative
 website: https://www.educative.io
+about: Text-based interactive coding courses and skill paths.
 slug: educative
 
 category:

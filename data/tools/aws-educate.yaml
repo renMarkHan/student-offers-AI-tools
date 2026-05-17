@@ -1,5 +1,6 @@
 name: AWS Educate
 website: https://aws.amazon.com
+about: Free AWS cloud learning paths, labs, and badges for students.
 slug: aws-educate
 
 category:

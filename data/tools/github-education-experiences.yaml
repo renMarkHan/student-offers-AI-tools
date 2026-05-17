@@ -1,5 +1,6 @@
 name: GitHub Education Experiences
 website: https://education.github.com
+about: Short guided learning modules on GitHub tools and Copilot.
 slug: github-education-experiences
 
 category:

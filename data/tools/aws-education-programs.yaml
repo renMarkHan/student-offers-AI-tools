@@ -1,5 +1,6 @@
 name: AWS Education Programs
 website: https://aws.amazon.com
+about: Entry point for AWS student and educator cloud programs.
 slug: aws-education-programs
 
 category:

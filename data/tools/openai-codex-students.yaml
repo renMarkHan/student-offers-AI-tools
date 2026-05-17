@@ -1,5 +1,6 @@
 name: OpenAI Codex (Students)
 website: https://developers.openai.com/codex
+about: Credits for OpenAI Codex coding agent in ChatGPT.
 slug: openai-codex-students
 
 category:

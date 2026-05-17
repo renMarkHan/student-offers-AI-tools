@@ -1,5 +1,6 @@
 name: Windsurf
 website: https://windsurf.com
+about: AI code editor with agent-style multi-step coding (from Codeium).
 slug: windsurf
 
 category:
