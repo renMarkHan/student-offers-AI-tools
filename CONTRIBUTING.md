@@ -69,7 +69,15 @@ status: unverified          # New contributor PRs (see Status)
 
 Optional but helpful: `eligibility`, `proof_required`, `offer_type`, `related_tools`, `last_checked_by`, `last_checked_at`, `notes` (factual caveats only).
 
-### 5. Open the pull request
+### 5. Regenerate the student browse page
+
+```bash
+python3 scripts/generate_browse.py
+```
+
+This updates [docs/browse.md](docs/browse.md)—what students read on GitHub. Include it in the same PR as your YAML change.
+
+### 6. Open the pull request
 
 Use the [PR template](.github/PULL_REQUEST_TEMPLATE.md). Title examples:
 
